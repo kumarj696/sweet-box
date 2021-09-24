@@ -1,0 +1,1856 @@
+2021-04-05T13:13:04.443+05:30| vmx| I120: Log for VMware Workstation pid=5864 version=10.0.1 build=build-1379776 option=Release
+2021-04-05T13:13:04.443+05:30| vmx| I120: The process is 64-bit.
+2021-04-05T13:13:04.443+05:30| vmx| I120: Host codepage=windows-1252 encoding=windows-1252
+2021-04-05T13:13:04.443+05:30| vmx| I120: Host is Windows 7 Home Premium, 64-bit Service Pack 1 (Build 7601)
+2021-04-05T13:13:04.146+05:30| vmx| I120: VTHREAD initialize main thread 0 "vmx" host id 2884
+2021-04-05T13:13:04.157+05:30| vmx| I120: LOCALE windows-1252 -> NULL User=4009 System=4009
+2021-04-05T13:13:04.157+05:30| vmx| I120: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2021-04-05T13:13:04.208+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.208+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.269+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.269+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.269+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.269+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.279+05:30| vmx| I120: Msg_Reset:
+2021-04-05T13:13:04.279+05:30| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\vaio\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2021-04-05T13:13:04.279+05:30| vmx| I120: ----------------------------------------
+2021-04-05T13:13:04.279+05:30| vmx| I120: ConfigDB: Failed to load C:\Users\vaio\AppData\Roaming\VMware\config.ini
+2021-04-05T13:13:04.298+05:30| vmx| I120: OBJLIB-LIB: Objlib initialized.
+2021-04-05T13:13:04.298+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.298+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.298+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.298+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.298+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.298+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.299+05:30| vmx| I120: Msg_Reset:
+2021-04-05T13:13:04.299+05:30| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\vaio\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2021-04-05T13:13:04.299+05:30| vmx| I120: ----------------------------------------
+2021-04-05T13:13:04.299+05:30| vmx| I120: PREF Optional preferences file not found at C:\Users\vaio\AppData\Roaming\VMware\config.ini. Using default values.
+2021-04-05T13:13:04.306+05:30| vmx| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2021-04-05T13:13:04.440+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.440+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.440+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.440+05:30| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:04.443+05:30| vmx| I120: Hostname=vaio-VAIO
+2021-04-05T13:13:04.447+05:30| vmx| I120: IP=fe80::288c:1059:35a3:7d2a%16
+2021-04-05T13:13:04.447+05:30| vmx| I120: IP=fe80::c2e:b47b:6a10:ed5c%17
+2021-04-05T13:13:04.447+05:30| vmx| I120: IP=fe80::b132:2c7e:71a9:6fec%14
+2021-04-05T13:13:04.447+05:30| vmx| I120: IP=192.168.197.1
+2021-04-05T13:13:04.447+05:30| vmx| I120: IP=192.168.44.1
+2021-04-05T13:13:04.447+05:30| vmx| I120: IP=192.168.1.6
+2021-04-05T13:13:04.447+05:30| vmx| I120: HOSTINFO 993308692797 @ 2241044Hz -> 0 @ 1000000000Hz
+2021-04-05T13:13:04.447+05:30| vmx| I120: HOSTINFO ((x * 3743169701) >> 23) + -443234801604467
+2021-04-05T13:13:04.467+05:30| vmx| I120: System uptime 443392529401 us
+2021-04-05T13:13:04.467+05:30| vmx| I120: Command line: "C:\Program Files (x86)\VMware\VMware Workstation\x64\vmware-vmx.exe" "-T" "querytoken" "-s" "vmx.stdio.keep=TRUE" "-#" "product=1;name=VMware Workstation;version=10.0.1;buildnumber=1379776;licensename=VMware Workstation;licenseversion=10.0;" "-@" "pipe=\\.\pipe\vmx31d1398b7e55da32;" "F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx"
+2021-04-05T13:13:04.467+05:30| vmx| I120: Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2021-04-05T13:13:04.680+05:30| vmx| I120: Connecting 'ui' to pipe '\\.\pipe\vmx31d1398b7e55da32' with user '(null)'
+2021-04-05T13:13:04.681+05:30| vmx| I120: VMXVmdb: Local connection timeout: 60000 ms.
+2021-04-05T13:13:04.707+05:30| vmx| I120: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2021-04-05T13:13:04.707+05:30| vmx| I120: Vix: [2884 mainDispatch.c:475]: VMAutomation: Initializing VMAutomation.
+2021-04-05T13:13:04.713+05:30| vmx| I120: Vix: [2884 mainDispatch.c:772]: VMAutomationOpenListenerSocket() listening
+2021-04-05T13:13:04.728+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2021-04-05T13:13:04.739+05:30| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2021-04-05T13:13:04.739+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2021-04-05T13:13:04.739+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2021-04-05T13:13:04.739+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2021-04-05T13:13:05.163+05:30| vmx| I120: HD: host version is 6.1.7601
+2021-04-05T13:13:05.163+05:30| vmx| I120: HD: addr fffff80002d9e8c0
+2021-04-05T13:13:05.163+05:30| vmx| I120: HD: fffff80002e62c00, 0
+2021-04-05T13:13:05.163+05:30| vmx| W110: Can't set WSS, error 1314
+2021-04-05T13:13:05.163+05:30| vmx| I120: VerificationOfHostParameters status 1
+2021-04-05T13:13:05.163+05:30| vmx| W110: VMX can't verify host parameters.
+2021-04-05T13:13:05.253+05:30| vmx| I120: FeatureCompat: EVC masks:
+2021-04-05T13:13:05.343+05:30| vmx| I120: Common: mask 0 = 0xffffffffffffffff
+2021-04-05T13:13:05.343+05:30| vmx| I120: Common: mask 1 = 0xffffffffffffffff
+2021-04-05T13:13:05.343+05:30| vmx| I120: Common: mask 2 = 0xffffffffffffffff
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID vendor: GenuineIntel
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID family: 0x6 model: 0x2a stepping: 0x7
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID codename: Sandy Bridge
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID name: Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000000, 0: 0x0000000d 0x756e6547 0x6c65746e 0x49656e69
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000001, 0: 0x000206a7 0x00100800 0x1dbae3bf 0xbfebfbff
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000002, 0: 0x76035a01 0x00f0b2ff 0x00000000 0x00ca0000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000004, 0: 0x1c004121 0x01c0003f 0x0000003f 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000004, 1: 0x1c004122 0x01c0003f 0x0000003f 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000004, 2: 0x1c004143 0x01c0003f 0x000001ff 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000004, 3: 0x1c03c163 0x02c0003f 0x00000fff 0x00000006
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000004, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x00021120
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000006, 0: 0x00000077 0x00000002 0x00000009 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000a, 0: 0x07300403 0x00000000 0x00000000 0x00000603
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 0: 0x00000007 0x00000340 0x00000340 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 1: 0x00000001 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 2: 0x00000100 0x00000240 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 3: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 5: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 6: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 7: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 8: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 9: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, a: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, b: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, c: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, d: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, e: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, f: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 10: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 11: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 12: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 13: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 14: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 15: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 16: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 17: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 18: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 19: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 1a: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 1b: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 1c: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 1d: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 1e: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 1f: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 20: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 21: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 22: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 23: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 24: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 25: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 26: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 27: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 28: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 29: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 2a: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 2b: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 2c: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 2d: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 2e: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 2f: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 30: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 31: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 32: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 33: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 34: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 35: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 36: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 37: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 38: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 39: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 3a: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 3b: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 3c: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 3d: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 3e: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 0000000d, 3f: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000001 0x28100800
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000002, 0: 0x20202020 0x49202020 0x6c65746e 0x20295228
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000003, 0: 0x65726f43 0x294d5428 0x2d356920 0x30313432
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000004, 0: 0x5043204d 0x20402055 0x30332e32 0x007a4847
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01006040 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100
+2021-04-05T13:13:05.347+05:30| vmx| I120: hostCPUID level 80000008, 0: 0x00003024 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:05.347+05:30| vmx| I120: CPUID differences from hostCPUID.
+2021-04-05T13:13:05.347+05:30| vmx| I120: CPUID[1] level 00000001, 0: 0x000206a7 0x01100800 0x1dbae3bf 0xbfebfbff
+2021-04-05T13:13:05.347+05:30| vmx| I120: CPUID[1] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000001
+2021-04-05T13:13:05.347+05:30| vmx| I120: CPUID[1] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000001
+2021-04-05T13:13:05.347+05:30| vmx| I120: CPUID[1] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000001
+2021-04-05T13:13:05.347+05:30| vmx| I120: CPUID[2] level 00000001, 0: 0x000206a7 0x02100800 0x1dbae3bf 0xbfebfbff
+2021-04-05T13:13:05.347+05:30| vmx| I120: CPUID[2] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000002
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPUID[2] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000002
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPUID[2] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000002
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPUID[3] level 00000001, 0: 0x000206a7 0x03100800 0x1dbae3bf 0xbfebfbff
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPUID[3] level 0000000b, 0: 0x00000001 0x00000002 0x00000100 0x00000003
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPUID[3] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000003
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPUID[3] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000003
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPUID Maximum Physical Address Bits supported across all CPUs: 36
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR       0x3a =                0x5
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x480 =   0xda040000000010
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x481 =       0x7f00000016
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x482 = 0xfff9fffe0401e172
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x483 =   0x7fffff00036dff
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x484 =     0xffff000011ff
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x485 =         0x100401e5
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x486 =         0x80000021
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x487 =         0xffffffff
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x488 =             0x2000
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x489 =            0x627ff
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x48a =               0x2a
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x48b =       0xff00000000
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x48c =      0xf0106114141
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x48d =       0x7f00000016
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x48e = 0xfff9fffe04006172
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x48f =   0x7fffff00036dfb
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x490 =     0xffff000011fb
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR      0x491 =                  0
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR 0xc0010114 =                  0
+2021-04-05T13:13:05.348+05:30| vmx| I120: Common: MSR       0xce =         0x60011700
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPU[0]: MSR       0xce =      0x80060011700
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPU[1]: MSR       0xce =      0x80060011700
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPU[2]: MSR       0xce =      0x80060011700
+2021-04-05T13:13:05.348+05:30| vmx| I120: CPU[3]: MSR       0xce =      0x80060011700
+2021-04-05T13:13:05.348+05:30| vmx| I120: VMMon_GetkHzEstimate: Calculated 2294829 kHz
+2021-04-05T13:13:05.348+05:30| vmx| I120: HOSTINFO: Host supports constant rate TSC.
+2021-04-05T13:13:05.348+05:30| vmx| I120: TSC kHz estimates: vmmon 2294829, remembered 0, osReported 2301000. Using 2294829 kHz.
+2021-04-05T13:13:05.371+05:30| vmx| I120: TSC first measured delta 228
+2021-04-05T13:13:05.371+05:30| vmx| I120: TSC min delta 190
+2021-04-05T13:13:05.371+05:30| vmx| I120: PTSC: RefClockToPTSC 0 @ 2241044Hz -> 0 @ 2294829000Hz
+2021-04-05T13:13:05.371+05:30| vmx| I120: PTSC: RefClockToPTSC ((x * 4294967191) >> 22) + -12738524771202
+2021-04-05T13:13:05.372+05:30| vmx| I120: PTSC: tscOffset -12740035862963
+2021-04-05T13:13:05.372+05:30| vmx| I120: PTSC: using TSC
+2021-04-05T13:13:05.372+05:30| vmx| I120: PTSC: hardware TSCs are synchronized.
+2021-04-05T13:13:05.372+05:30| vmx| I120: PTSC: current PTSC=141113
+2021-04-05T13:13:05.387+05:30| vmx| I120: VMIOP: Init started
+2021-04-05T13:13:05.589+05:30| vmx| I120: MACWireless: registered wireless module "emulated"
+2021-04-05T13:13:05.651+05:30| vmx| I120: ConfigCheck: No rules file found. Checks are disabled.
+2021-04-05T13:13:05.651+05:30| vmx| I120: changing directory to F:\2003Vmware\.
+2021-04-05T13:13:05.651+05:30| vmx| I120: Config file: F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx
+2021-04-05T13:13:05.663+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2021-04-05T13:13:05.663+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2021-04-05T13:13:06.019+05:30| vmx| I120: VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOn without reset, soft, softOptionTimeout: 0.
+2021-04-05T13:13:06.019+05:30| vmx| I120: Tools: sending 'OS_PowerOn' (state = 3) state change request
+2021-04-05T13:13:06.019+05:30| vmx| I120: Tools: Delaying state change request to state 3.
+2021-04-05T13:13:06.019+05:30| vmx| W110: PowerOn
+2021-04-05T13:13:06.019+05:30| vmx| I120: VMX_PowerOn: VMX build 1379776, UI build 1379776
+2021-04-05T13:13:06.019+05:30| vmx| I120: HostWin32: WIN32 NUMA node 0, CPU mask 0x000000000000000f
+2021-04-05T13:13:06.028+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2021-04-05T13:13:06.045+05:30| vmx| I120: HOST Windows version 6.1, build 7601, platform 2, "Service Pack 1", SMP
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- USER PREFERENCES C:\Users\vaio\AppData\Roaming\VMware\preferences.ini 
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT      pref.lastUpdateCheck = "1613717418197000"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT        pref.hostMRU.count = "1"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT        pref.hostMRU0.name = "localhost"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window.count = "1"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab.count = "2"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.sidebar = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.sidebar.width = "200"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.statusBar = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tabs = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.thumbnailBar = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.thumbnailBar.size = "100"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.thumbnailBar.view = "opened-vms"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.placement.left = "50"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.placement.top = "50"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.placement.right = "1075"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.placement.bottom = "576"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.maximized = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT  pref.sharedFolder.maxNum = "2"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder0.vmPath = "/vm/#31d1398b7e55da32/"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder0.guestName = "D"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder0.hostPath = "D:\"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder0.enabled = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder1.vmPath = "/vm/#31d1398b7e55da32/"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder1.guestName = "E"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder1.hostPath = "E:\"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.sharedFolder1.enabled = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT  hint.vmui.showAllUSBDevs = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT             hints.hideAll = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT  pref.fullscreen.autohide = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.dest = ""
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.file = ""
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.type = "home"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab0.focused = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.dest = ""
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.file = "F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.type = "vm"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT pref.ws.session.window0.tab1.focused = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- USER DEFAULTS C:\Users\vaio\AppData\Roaming\VMware\config.ini 
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT         authd.client.port = "902"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "3984"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "3984"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT         authd.client.port = "902"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "3984"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "3984"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- NONPERSISTENT
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT             gui.available = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- COMMAND LINE
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT             gui.available = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- RECORDING
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT             gui.available = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT --- CONFIGURATION F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx 
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT            config.version = "8"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT         virtualHW.version = "6"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT             scsi0.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT          scsi0.virtualDev = "lsilogic"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT                   memsize = "2048"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT           scsi0:0.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT          scsi0:0.fileName = "Windows Server 2003 Enterprise Edition.vmdk"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT            ide1:0.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT           ide1:0.fileName = "G:"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT         ide1:0.deviceType = "cdrom-raw"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT        floppy0.autodetect = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT         ethernet0.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT   ethernet0.wakeOnPcktRcv = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT               usb.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT              ehci.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT             sound.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT            sound.fileName = "-1"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT          sound.autodetect = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT           svga.autodetect = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT        pciBridge0.present = "TRUE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT        mks.keyboardFilter = "allow"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT               displayName = "Windows Server 2003 Enterprise Edition"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT                   guestOS = "winnetenterprise"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT                     nvram = "Windows Server 2003 Enterprise Edition.nvram"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT        deploymentPlatform = "windows"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT virtualHW.productCompatibility = "hosted"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT      tools.upgrade.policy = "useGlobal"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT         ide1:0.autodetect = "FALSE"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT          floppy0.fileName = "A:"
+2021-04-05T13:13:06.046+05:30| vmx| I120: DICT        extendedConfigFile = "Windows Server 2003 Enterprise Edition.vmxf"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT     ethernet0.addressType = "generated"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT             uuid.location = "56 4d 65 74 6b 54 98 2a-20 ef 2a 57 2f 7b 97 32"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT                 uuid.bios = "56 4d 65 74 6b 54 98 2a-20 ef 2a 57 2f 7b 97 32"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT              scsi0:0.redo = ""
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT  pciBridge0.pciSlotNumber = "17"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT       scsi0.pciSlotNumber = "16"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT   ethernet0.pciSlotNumber = "32"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT       sound.pciSlotNumber = "33"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT        ehci.pciSlotNumber = "34"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT ethernet0.generatedAddress = "00:0c:29:7b:97:32"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT ethernet0.generatedAddressOffset = "0"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT       tools.remindInstall = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT   gui.lastPoweredViewMode = "fullscreen"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT          replay.supported = "FALSE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT           replay.filename = ""
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT  vmotion.checkpointFBSize = "33554432"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT             cleanShutdown = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT              softPowerOff = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT               usb:1.speed = "2"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT     ide1:0.startConnected = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT            tools.syncTime = "FALSE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT          unity.wasCapable = "FALSE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT toolsInstallManager.updateCounter = "1"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT isolation.tools.hgfs.disable = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT     sharedFolder0.present = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT     sharedFolder0.enabled = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT  sharedFolder0.readAccess = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT sharedFolder0.writeAccess = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT    sharedFolder0.hostPath = "E:\"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT   sharedFolder0.guestName = "E"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT  sharedFolder0.expiration = "never"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT       sharedFolder.maxNum = "2"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT        checkpoint.vmState = ""
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT          gui.exitOnCLIHLT = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT    floppy0.startConnected = "FALSE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT           migrate.hostlog = ".\Windows Server 2003 Enterprise Edition-9ad8b5d6.hlog"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT    monitor.phys_bits_used = "36"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT     sharedFolder1.present = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT     sharedFolder1.enabled = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT  sharedFolder1.readAccess = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT sharedFolder1.writeAccess = "TRUE"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT    sharedFolder1.hostPath = "D:\"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT   sharedFolder1.guestName = "D"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT  sharedFolder1.expiration = "never"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT --- USER DEFAULTS C:\Users\vaio\AppData\Roaming\VMware\config.ini 
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT         authd.client.port = "902"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "3984"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "3984"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT         authd.client.port = "902"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "3984"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "yes"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "3984"
+2021-04-05T13:13:06.047+05:30| vmx| I120: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2021-04-05T13:13:06.060+05:30| vmx| I120: Vix: [2884 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2021-04-05T13:13:06.124+05:30| vmx| I120: Basic VMX Information (0x00da040000000010)
+2021-04-05T13:13:06.124+05:30| vmx| I120:   VMCS revision ID                  16
+2021-04-05T13:13:06.124+05:30| vmx| I120:   VMCS region length              1024
+2021-04-05T13:13:06.124+05:30| vmx| I120:   VMX physical-address width   natural
+2021-04-05T13:13:06.124+05:30| vmx| I120:   SMM dual-monitor mode            yes
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Advanced INS/OUTS info           yes
+2021-04-05T13:13:06.124+05:30| vmx| I120:   True VMX MSRs                    yes
+2021-04-05T13:13:06.124+05:30| vmx| I120:   VMCS memory type                  WB
+2021-04-05T13:13:06.124+05:30| vmx| I120: True Pin-Based VM-Execution Controls (0x0000007f00000016)
+2021-04-05T13:13:06.124+05:30| vmx| I120:   External-interrupt exiting     {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   NMI exiting                    {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Virtual NMIs                   {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Activate VMX-preemption timer  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Process posted interrupts      { 0 }
+2021-04-05T13:13:06.124+05:30| vmx| I120: True Primary Processor-Based VM-Execution Controls (0xfff9fffe04006172)
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Interrupt-window exiting       {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Use TSC offsetting             {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   HLT exiting                    {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   INVLPG exiting                 {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   MWAIT exiting                  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   RDPMC exiting                  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   RDTSC exiting                  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   CR3-load exiting               {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   CR3-store exiting              {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   CR8-load exiting               {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   CR8-store exiting              {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Use TPR shadow                 {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   NMI-window exiting             {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   MOV-DR exiting                 {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Unconditional I/O exiting      {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Use I/O bitmaps                {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Monitor trap flag              {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Use MSR bitmaps                {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   MONITOR exiting                {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   PAUSE exiting                  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Activate secondary controls    {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120: Secondary Processor-Based VM-Execution Controls (0x000000ff00000000)
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Virtualize APIC accesses       {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Enable EPT                     {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Descriptor-table exiting       {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Enable RDTSCP                  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Virtualize x2APIC mode         {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Enable VPID                    {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   WBINVD exiting                 {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Unrestricted guest             {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   APIC-register virtualization   { 0 }
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Virtual-interrupt delivery     { 0 }
+2021-04-05T13:13:06.124+05:30| vmx| I120:   PAUSE-loop exiting             { 0 }
+2021-04-05T13:13:06.124+05:30| vmx| I120:   RDRAND exiting                 { 0 }
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Enable INVPCID                 { 0 }
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Enable VM Functions            { 0 }
+2021-04-05T13:13:06.124+05:30| vmx| I120: True VM-Exit Controls (0x007fffff00036dfb)
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Save debug controls            {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Host address-space size        {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Load IA32_PERF_GLOBAL_CTRL     {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Acknowledge interrupt on exit  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Save IA32_PAT                  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Load IA32_PAT                  {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Save IA32_EFER                 {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Load IA32_EFER                 {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Save VMX-preemption timer      {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120: True VM-Entry Controls (0x0000ffff000011fb)
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Load debug controls            {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   IA-32e mode guest              {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Entry to SMM                   {0,1}
+2021-04-05T13:13:06.124+05:30| vmx| I120:   Deactivate dual-monitor mode   {0,1}
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Load IA32_PERF_GLOBAL_CTRL     {0,1}
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Load IA32_PAT                  {0,1}
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Load IA32_EFER                 {0,1}
+2021-04-05T13:13:06.125+05:30| vmx| I120: VPID and EPT Capabilities (0x00000f0106114141)
+2021-04-05T13:13:06.125+05:30| vmx| I120:   R=0/W=0/X=1                      yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Page-walk length 3               yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   EPT memory type WB               yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   2MB super-page                   yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   INVEPT support                   yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Access & Dirty Bits               no
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Type 1 INVEPT                    yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Type 2 INVEPT                    yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   INVVPID support                  yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Type 0 INVVPID                   yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Type 1 INVVPID                   yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Type 2 INVVPID                   yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Type 3 INVVPID                   yes
+2021-04-05T13:13:06.125+05:30| vmx| I120: Miscellaneous VMX Data (0x00000000100401e5)
+2021-04-05T13:13:06.125+05:30| vmx| I120:   TSC to preemption timer ratio      5
+2021-04-05T13:13:06.125+05:30| vmx| I120:   VM-Exit saves EFER.LMA           yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Activity State HLT               yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Activity State shutdown          yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Activity State wait-for-SIPI     yes
+2021-04-05T13:13:06.125+05:30| vmx| I120:   CR3 targets supported              4
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Maximum MSR list size            512
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Allow all VMWRITEs                no
+2021-04-05T13:13:06.125+05:30| vmx| I120:   MSEG revision ID                   0
+2021-04-05T13:13:06.125+05:30| vmx| I120: VMX-Fixed Bits in CR0 (0x0000000080000021/0x00000000ffffffff)
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Fixed to 0        0xffffffff00000000
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Fixed to 1        0x0000000080000021
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Variable          0x000000007fffffde
+2021-04-05T13:13:06.125+05:30| vmx| I120: VMX-Fixed Bits in CR4 (0x0000000000002000/0x00000000000627ff)
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Fixed to 0        0xfffffffffff9d800
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Fixed to 1        0x0000000000002000
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Variable          0x00000000000607ff
+2021-04-05T13:13:06.125+05:30| vmx| I120: VMCS Enumeration (0x000000000000002a)
+2021-04-05T13:13:06.125+05:30| vmx| I120:   Highest index                   0x15
+2021-04-05T13:13:06.125+05:30| vmx| I120: VM Functions (0x0000000000000000)
+2021-04-05T13:13:06.125+05:30| vmx| I120: hostCpuFeatures = 0xc6002fd
+2021-04-05T13:13:06.125+05:30| vmx| I120: hostNumGenPerfCounters = 4
+2021-04-05T13:13:06.125+05:30| vmx| I120: hostNumFixedPerfCounters = 3
+2021-04-05T13:13:06.125+05:30| vmx| I120: hostPerfCtrArch = 3
+2021-04-05T13:13:06.125+05:30| vmx| I120: CPU0: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x18, smmFrz (hw): (1)
+2021-04-05T13:13:06.125+05:30| vmx| I120:  [c:0 f:1 e:0]
+2021-04-05T13:13:06.125+05:30| vmx| I120: CPU1: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x18, smmFrz (hw): (1)
+2021-04-05T13:13:06.125+05:30| vmx| I120:  [c:0 f:1 e:0]
+2021-04-05T13:13:06.125+05:30| vmx| I120: CPU2: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x18, smmFrz (hw): (1)
+2021-04-05T13:13:06.125+05:30| vmx| I120:  [c:0 f:1 e:0]
+2021-04-05T13:13:06.125+05:30| vmx| I120: CPU3: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x18, smmFrz (hw): (1)
+2021-04-05T13:13:06.125+05:30| vmx| I120:  [c:0 f:1 e:0]
+2021-04-05T13:13:06.126+05:30| vmx| I120: MONITOR MODE: allowed modes          : BT32 HV HWMMU
+2021-04-05T13:13:06.126+05:30| vmx| I120: MONITOR MODE: user requested modes   : BT32 HV HWMMU
+2021-04-05T13:13:06.126+05:30| vmx| I120: MONITOR MODE: guestOS preferred modes: HWMMU HV BT32
+2021-04-05T13:13:06.126+05:30| vmx| I120: MONITOR MODE: filtered list          : HWMMU HV BT32
+2021-04-05T13:13:06.126+05:30| vmx| I120: HV Settings: virtual exec = 'hardware'; virtual mmu = 'hardware'
+2021-04-05T13:13:06.247+05:30| vmx| I120: OvhdMem_PowerOn: lib/overheadmem:   paged   339753 nonpaged    37206 anonymous    16207
+2021-04-05T13:13:06.247+05:30| vmx| I120: OvhdMem_PowerOn: initial admission: paged   181587 nonpaged    36409 anonymous     5069
+2021-04-05T13:13:06.247+05:30| vmx| I120: VMMEM: Initial Reservation: 16776039MB (MainMem=2048MB)
+2021-04-05T13:13:06.260+05:30| vmx| I120: MemSched_PowerOn: balloon minGuestSize 26214 (80% of min required size 32768)
+2021-04-05T13:13:06.260+05:30| vmx| I120: MemSched: reserved mem (in MB) min 128 max 3057 recommended 3057
+2021-04-05T13:13:06.260+05:30| vmx| I120: PShare: enabled 1 adaptive 1 scanRate [16, 400]
+2021-04-05T13:13:06.260+05:30| vmx| I120: MemSched: pg 181587 np 36409 anon 5069 mem 524288
+2021-04-05T13:13:06.324+05:30| vmx| I120: MemSched: numvm 1 locked pages: num 0 max 774400
+2021-04-05T13:13:06.324+05:30| vmx| I120: MemSched: locked Page Limit: host 940369 config 782592 dynam 842290
+2021-04-05T13:13:06.324+05:30| vmx| I120: MemSched: minmempct 50 minalloc 0 admitted 1
+2021-04-05T13:13:06.324+05:30| vmx| W110: NUMA: automatic VM sizing request ignored
+2021-04-05T13:13:06.345+05:30| WinNotifyThread| I120: VTHREAD start thread 4 "WinNotifyThread" host id 4340
+2021-04-05T13:13:06.345+05:30| WinNotifyThread| I120: WinNotify thread is alive
+2021-04-05T13:13:06.346+05:30| vmx| I120: hread 4340 5864LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Workstation\Dormant\License.ws.10.0.e2.201303' 
+2021-04-05T13:13:06.349+05:30| vthread-5| I120: VTHREAD start thread 5 "vthread-5" host id 5648
+2021-04-05T13:13:06.350+05:30| vmx| I120: hread 5648 5864PolicyVMXFindPolicyKey: policy file does not exist.
+2021-04-05T13:13:06.366+05:30| vmx| I120: PolicyVMXFindPolicyKey: policy file does not exist.
+2021-04-05T13:13:06.406+05:30| vmx| I120: Host IPI vectors: 0x2f 0.  Monitor IPI vector: 0
+2021-04-05T13:13:06.406+05:30| vmx| I120: Monitor_PowerOn: HostedVSMP skew tracking is disabled
+2021-04-05T13:13:06.406+05:30| vmx| I120: Monitor64_PowerOn()
+2021-04-05T13:13:06.407+05:30| vmx| I120: Loaded worldswitch: .wsBody64.  Size = 480.
+2021-04-05T13:13:06.407+05:30| vmx| I120: Successfully loaded worldswitch fault handlers from .switchNMI.  Size = 240.
+2021-04-05T13:13:06.407+05:30| vmx| I120: vmm64-modules: [vmm.vmm64, mmu-hwmmu.vmm64, vprobe-none.vmm64, hv-vt.vmm64, gphys-ept.vmm64, vmsafe-none.vmm64, callstack-none.vmm64, vmce-none.vmm64, vvtd-none.vmm64, {SharedInterVcpuVmxSection}, {SharedInterVcpuSection}, <MonSrcFile>, hvLoadedAsAddr=0x1, useNPTAsAddr=0x1, vcpusetFullAsAddr=0x1, numVCPUsAsAddr=0x1, busmemFrameMPNOffsetAsAddr=0xc, busmemFramesPerPgDivSh2AsAddr=0x8, busmemFramesPerPgDivSh1AsAddr=0x1, busmemFramesPerPgDivMulAsAddr=0x100000000, busmemFramesPerPageAsAddr=0x200, busmemFrameSizeAsAddr=0x8]
+2021-04-05T13:13:06.407+05:30| vmx| I120: vmm64-vcpus:  1
+2021-04-05T13:13:06.493+05:30| vmx| I120: KHZEstimate 2294829
+2021-04-05T13:13:06.493+05:30| vmx| I120: MHZEstimate 2295
+2021-04-05T13:13:06.494+05:30| vmx| I120: NumVCPUs 1
+2021-04-05T13:13:06.494+05:30| vmx| I120: Guest OS (20490) not supported for replay debugging.
+2021-04-05T13:13:06.503+05:30| vmx| I120: BusMemServices: page checkRate 16
+2021-04-05T13:13:06.518+05:30| vmx| I120: UUID: location-UUID is 56 4d f0 2d d1 69 35 ed-16 0f e2 a8 57 1c 78 9d
+2021-04-05T13:13:06.519+05:30| vmx| I120: UUID: location-UUID is 56 4d 65 74 6b 54 98 2a-20 ef 2a 57 2f 7b 97 32
+2021-04-05T13:13:06.519+05:30| vmx| I120: UUID: location-UUID is 56 4d 65 74 6b 54 98 2a-20 ef 2a 57 2f 7b 97 32
+2021-04-05T13:13:06.519+05:30| vmx| I120: AIOGNRC: numThreads=18 ide=0, scsi=1, passthru=1
+2021-04-05T13:13:06.519+05:30| vmx| I120: WORKER: Creating new group with numThreads=18 (18)
+2021-04-05T13:13:06.519+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:13:06.521+05:30| vmx| I120: StateLogger::Replay State = 0
+2021-04-05T13:13:06.521+05:30| vmx| I120: StateLogger::minDEThreshold: 115
+2021-04-05T13:13:06.521+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:13:06.590+05:30| vmx| I120: WORKER: Creating new group with numThreads=1 (19)
+2021-04-05T13:13:06.590+05:30| vmx| I120: MainMem: CPT Host WZ=0 SOR=1 PF=2048 D=0
+2021-04-05T13:13:06.590+05:30| vmx| I120: MainMem: CPT PLS=1 PLR=1 BS=1 BufM=0 BlkP=32 Mult=4 W=50
+2021-04-05T13:13:06.591+05:30| vmx| I120: UUID: location-UUID is 56 4d 65 74 6b 54 98 2a-20 ef 2a 57 2f 7b 97 32
+2021-04-05T13:13:06.664+05:30| vmx| I120: MainMem: Opened paging file, 'F:\2003Vmware\564d6574-6b54-982a-20ef-2a572f7b9732.vmem'.
+2021-04-05T13:13:06.664+05:30| vmx| I120: MStat: Creating Stat vm.uptime
+2021-04-05T13:13:06.664+05:30| vmx| I120: MStat: Creating Stat vm.suspendTime
+2021-04-05T13:13:06.664+05:30| vmx| I120: MStat: Creating Stat vm.powerOnTimeStamp
+2021-04-05T13:13:06.664+05:30| aioCompletion| I120: VTHREAD start thread 6 "aioCompletion" host id 3952
+2021-04-05T13:13:06.665+05:30| vmx| I120: hread 3952 5864VMXAIOMGR: Using: simple=Generic unbuf=Compl
+2021-04-05T13:13:06.724+05:30| vmx| I120: WORKER: Creating new group with numThreads=1 (20)
+2021-04-05T13:13:06.817+05:30| vmx| I120: WORKER: Creating new group with numThreads=16 (36)
+2021-04-05T13:13:06.818+05:30| vthread-7| I120: VTHREAD start thread 7 "vthread-7" host id 6296
+2021-04-05T13:13:06.818+05:30| vmx| I120: hread 6296 5864DISK: OPEN scsi0:0 'F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmdk' persistent R[]
+2021-04-05T13:13:07.035+05:30| Worker#0| I120: DISKLIB-DSCPTR: Opened [0]: "Windows Server 2003 Enterprise Edition.vmdk" (0xa)
+2021-04-05T13:13:07.035+05:30| Worker#0| I120: DISKLIB-LINK  : Opened 'F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmdk' (0xa): monolithicSparse, 62914560 sectors / 30 GB.
+2021-04-05T13:13:07.036+05:30| Worker#0| I120: DISKLIB-LIB   : Opened "F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmdk" (flags 0xa, type monolithicSparse).
+2021-04-05T13:13:07.036+05:30| Worker#0| I120: DiskGetGeometry: Reading of disk partition table
+2021-04-05T13:13:07.098+05:30| Worker#0| I120: DISK: Disk 'F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmdk' has no UUID
+2021-04-05T13:13:07.098+05:30| Worker#0| I120: DISK: OPEN 'F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmdk' Geo (3916/255/63) BIOS Geo (3916/255/63)
+2021-04-05T13:13:07.098+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:13:07.101+05:30| vmx| I120: DISK: Opening disks took 283 ms.
+2021-04-05T13:13:07.101+05:30| vmx| I120: TimeTracker host to guest rate conversion 3969685464 @ 2294829000Hz -> 0 @ 2294829000Hz
+2021-04-05T13:13:07.101+05:30| vmx| I120: TimeTracker host to guest rate conversion ((x * 2147483648) >> 31) + -3969685464
+2021-04-05T13:13:07.101+05:30| vmx| I120: timeTracker.globalProgressMaxAllowanceMS: 2000
+2021-04-05T13:13:07.101+05:30| vmx| I120: timeTracker.globalProgressToAllowanceNS: 1000
+2021-04-05T13:13:07.142+05:30| vmx| I120: USB: Initializing 'Virtual Hub' backend
+2021-04-05T13:13:07.142+05:30| vmx| I120: USB: Initializing 'Generic' backend
+2021-04-05T13:13:07.143+05:30| vmx| I120: USBGW: Write arbitrator op:15 len:4
+2021-04-05T13:13:07.143+05:30| vmx| I120: USBGW: Write arbitrator op:0 len:4
+2021-04-05T13:13:07.143+05:30| vmx| I120: USBGW: Write arbitrator op:27 len:107
+2021-04-05T13:13:07.171+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:13:07.171+05:30| vmx| I120: USB: Initializing 'Virtual HID' backend
+2021-04-05T13:13:07.218+05:30| sensorThread| I120: VTHREAD start thread 8 "sensorThread" host id 6872
+2021-04-05T13:13:07.218+05:30| vmx| I120: hread 6872 5864USB: Initializing 'Remote Device' backend
+2021-04-05T13:13:07.218+05:30| vmx| I120: USB: Unable to initialize 'Remote Device' backend
+2021-04-05T13:13:07.218+05:30| vmx| I120: USB: Initializing 'Virtual Mass Storage' backend
+2021-04-05T13:13:07.218+05:30| vmx| I120: USB: Initializing 'Virtual CCID' backend
+2021-04-05T13:13:07.291+05:30| vmx| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2021-04-05T13:13:07.292+05:30| vmx| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2021-04-05T13:13:07.292+05:30| usbCCIDEnumCards| I120: VTHREAD start thread 9 "usbCCIDEnumCards" host id 4988
+2021-04-05T13:13:07.292+05:30| usbCCIDEnumCards| I120: USB-CCID: Card enum thread created.
+2021-04-05T13:13:07.293+05:30| vmx| I120: hread 4988 5864USB: Initializing 'Virtual Bluetooth' backend
+2021-04-05T13:13:07.293+05:30| vmx| I120: USB: Initializing 'Virtual Audio' backend
+2021-04-05T13:13:07.355+05:30| vmx| I120: USBGW: Skipping disk backing for file (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx).
+2021-04-05T13:13:07.355+05:30| vmx| I120: USBGW: Skipping disk backing for file (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmdk).
+2021-04-05T13:13:07.355+05:30| vmx| I120: USBGW: Skipping disk backing for file (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmsd).
+2021-04-05T13:13:07.356+05:30| vmx| I120: USBGW: Skipping disk backing for file (F:\2003Vmware\Windows Server 2003 Enterprise Edition.nvram).
+2021-04-05T13:13:07.356+05:30| usbCCIDEnumCards| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2021-04-05T13:13:07.368+05:30| vmx| I120: MKS PowerOn
+2021-04-05T13:13:07.424+05:30| mks| I120: VTHREAD start thread 1 "mks" host id 4404
+2021-04-05T13:13:07.424+05:30| mks| I120: MKS thread is alive
+2021-04-05T13:13:07.424+05:30| vmx| I120: hread 4404 5864VTHREAD start thread 10 "mksInput" host id 7040
+2021-04-05T13:13:07.426+05:30| mks| I120: hread 7040 5864VTHREAD start thread 11 "mouse" host id 1100
+2021-04-05T13:13:07.478+05:30| mks| I120: hread 1100 5864VTHREAD start thread 12 "kbh" host id 6268
+2021-04-05T13:13:07.480+05:30| mks| I120: hread 6268 5864MKSWin32: Registering top level window (0x104b6) to receive session change notification.
+2021-04-05T13:13:07.485+05:30| mks| I120: Failed to load D3DX9 library.
+2021-04-05T13:13:07.496+05:30| mks| I120: MKS-RenderMux: Collecting RenderOps caps...
+2021-04-05T13:13:07.505+05:30| mks| I120: KHBKL: Unable to parse keystring at: ''
+2021-04-05T13:13:07.505+05:30| mks| I120: MKS-RemoteMgr: Set default display name: Windows Server 2003 Enterprise Edition
+2021-04-05T13:13:07.505+05:30| mks| I120: MKS-RemoteMgr: Loading VNC Configuration from VM config file
+2021-04-05T13:13:07.505+05:30| mks| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2021-04-05T13:13:07.540+05:30| vmx| I120: VLANCE: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks
+2021-04-05T13:13:07.540+05:30| vmx| I120: VMXNET: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks, dontClusterSize is 128
+2021-04-05T13:13:07.548+05:30| vmx| I120: NetPkt: checksum cycles/kB: C=23 asm1=225 asm2=266
+2021-04-05T13:13:07.548+05:30| vmx| I120: NetPkt: copy and sum cycles/kB: C=309 asm1=237 asm2=262
+2021-04-05T13:13:07.548+05:30| vmx| I120: Chipset version: 0
+2021-04-05T13:13:07.584+05:30| vmx| I120: SCSI DEVICE (ide1:0): Computed value of ide1:0.useBounceBuffers: default
+2021-04-05T13:13:07.584+05:30| vmx| I120: DISKUTIL: ide1:0 : capacity=0
+2021-04-05T13:13:07.584+05:30| vmx| I120: DISKUTIL: ide1:0 : geometry=0/0/0
+2021-04-05T13:13:07.585+05:30| vmx| I120: SCSI: scsi0: intr coalescing: on period=50msec cifTh=4 iopsTh=2000 hlt=0
+2021-04-05T13:13:07.585+05:30| vmx| I120: SCSI0: UNTAGGED commands will be converted to ORDER tags.
+2021-04-05T13:13:07.585+05:30| vmx| I120: SCSI DEVICE (scsi0:0): Computed value of scsi0:0.useBounceBuffers: default
+2021-04-05T13:13:07.585+05:30| vmx| I120: DISKUTIL: scsi0:0 : capacity=62914560
+2021-04-05T13:13:07.585+05:30| vmx| I120: DISKUTIL: scsi0:0 : geometry=3916/255/63
+2021-04-05T13:13:07.598+05:30| vmx| I120: SVGA: Device capabilities 0x000b83e2
+2021-04-05T13:13:07.611+05:30| vmx| I120: SVGA: Maximum display topology 3840x1920.
+2021-04-05T13:13:07.611+05:30| vmx| I120: SVGA: Number of displays 2
+2021-04-05T13:13:07.611+05:30| vmx| I120: SVGA: Maximum display topology 3840x1920.
+2021-04-05T13:13:07.611+05:30| vmx| I120: SVGA: FIFO capabilities 0x0000007f
+2021-04-05T13:13:07.611+05:30| vmx| I120: MKS3dCaps: host, at power on: 3d disabled
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  0]: 0x00000000 (3D)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  1]: 0x00000000 (MAX_LIGHTS)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  2]: 0x00000000 (MAX_TEXTURES)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  3]: 0x00000000 (MAX_CLIP_PLANES)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  4]: 0x00000000 (VERTEX_SHADER_VERSION)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  5]: 0x00000000 (VERTEX_SHADER)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  6]: 0x00000000 (FRAGMENT_SHADER_VERSION)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  7]: 0x00000000 (FRAGMENT_SHADER)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  8]: 0x00000000 (MAX_RENDER_TARGETS)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[  9]: 0x00000000 (S23E8_TEXTURES)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 10]: 0x00000000 (S10E5_TEXTURES)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 11]: 0x00000000 (MAX_FIXED_VERTEXBLEND)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 12]: 0x00000000 (D16_BUFFER_FORMAT)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 13]: 0x00000000 (D24S8_BUFFER_FORMAT)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 14]: 0x00000000 (D24X8_BUFFER_FORMAT)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 15]: 0x00000000 (QUERY_TYPES)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 16]: 0x00000000 (TEXTURE_GRADIENT_SAMPLING)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 17]:   0.000000 (MAX_POINT_SIZE)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 18]: 0x00000000 (MAX_SHADER_TEXTURES)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 19]: 0x00000000 (MAX_TEXTURE_WIDTH)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 20]: 0x00000000 (MAX_TEXTURE_HEIGHT)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 21]: 0x00000000 (MAX_VOLUME_EXTENT)
+2021-04-05T13:13:07.611+05:30| vmx| I120:   cap[ 22]: 0x00000000 (MAX_TEXTURE_REPEAT)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 23]: 0x00000000 (MAX_TEXTURE_ASPECT_RATIO)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 24]: 0x00000000 (MAX_TEXTURE_ANISOTROPY)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 25]: 0x00000000 (MAX_PRIMITIVE_COUNT)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 26]: 0x00000000 (MAX_VERTEX_INDEX)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 27]: 0x00000000 (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 28]: 0x00000000 (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 29]: 0x00000000 (MAX_VERTEX_SHADER_TEMPS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 30]: 0x00000000 (MAX_FRAGMENT_SHADER_TEMPS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 31]: 0x00000000 (TEXTURE_OPS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 32]: 0x00000000 (SURFACEFMT_X8R8G8B8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 33]: 0x00000000 (SURFACEFMT_A8R8G8B8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 34]: 0x00000000 (SURFACEFMT_A2R10G10B10)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 35]: 0x00000000 (SURFACEFMT_X1R5G5B5)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 36]: 0x00000000 (SURFACEFMT_A1R5G5B5)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 37]: 0x00000000 (SURFACEFMT_A4R4G4B4)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 38]: 0x00000000 (SURFACEFMT_R5G6B5)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 39]: 0x00000000 (SURFACEFMT_LUMINANCE16)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 40]: 0x00000000 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 41]: 0x00000000 (SURFACEFMT_ALPHA8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 42]: 0x00000000 (SURFACEFMT_LUMINANCE8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 43]: 0x00000000 (SURFACEFMT_Z_D16)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 44]: 0x00000000 (SURFACEFMT_Z_D24S8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 45]: 0x00000000 (SURFACEFMT_Z_D24X8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 46]: 0x00000000 (SURFACEFMT_DXT1)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 47]: 0x00000000 (SURFACEFMT_DXT2)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 48]: 0x00000000 (SURFACEFMT_DXT3)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 49]: 0x00000000 (SURFACEFMT_DXT4)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 50]: 0x00000000 (SURFACEFMT_DXT5)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 51]: 0x00000000 (SURFACEFMT_BUMPX8L8V8U8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 52]: 0x00000000 (SURFACEFMT_A2W10V10U10)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 53]: 0x00000000 (SURFACEFMT_BUMPU8V8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 54]: 0x00000000 (SURFACEFMT_Q8W8V8U8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 55]: 0x00000000 (SURFACEFMT_CxV8U8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 56]: 0x00000000 (SURFACEFMT_R_S10E5)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 57]: 0x00000000 (SURFACEFMT_R_S23E8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 58]: 0x00000000 (SURFACEFMT_RG_S10E5)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 59]: 0x00000000 (SURFACEFMT_RG_S23E8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 60]: 0x00000000 (SURFACEFMT_ARGB_S10E5)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 61]: 0x00000000 (SURFACEFMT_ARGB_S23E8)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 62]: 0x00000000 (MISSING62)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 63]: 0x00000000 (MAX_VERTEX_SHADER_TEXTURES)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 64]: 0x00000000 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 65]: 0x00000000 (SURFACEFMT_V16U16)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 66]: 0x00000000 (SURFACEFMT_G16R16)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 67]: 0x00000000 (SURFACEFMT_A16B16G16R16)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 68]: 0x00000000 (SURFACEFMT_UYVY)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 69]: 0x00000000 (SURFACEFMT_YUY2)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 70]: 0x00000000 (MULTISAMPLE_NONMASKABLESAMPLES)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 71]: 0x00000000 (MULTISAMPLE_MASKABLESAMPLES)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 72]: 0x00000000 (ALPHATOCOVERAGE)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 73]: 0x00000000 (SUPERSAMPLE)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 74]: 0x00000000 (AUTOGENMIPMAPS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 75]: 0x00000000 (SURFACEFMT_NV12)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 76]: 0x00000000 (SURFACEFMT_AYUV)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 77]: 0x00000000 (MAX_CONTEXT_IDS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 78]: 0x00000000 (MAX_SURFACE_IDS)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 79]: 0x00000000 (SURFACEFMT_Z_DF16)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 80]: 0x00000000 (SURFACEFMT_Z_DF24)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 81]: 0x00000000 (SURFACEFMT_Z_D24S8_INT)
+2021-04-05T13:13:07.612+05:30| vmx| I120:   cap[ 82]: 0x00000000 (SURFACEFMT_BC4_UNORM)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 83]: 0x00000000 (SURFACEFMT_BC5_UNORM)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 84]: 0x00000000 (VGPU10)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 87]: 0x00000000 (LINE_AA)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 89]:   0.000000 (MAX_LINE_WIDTH)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 91]: 0x00000000 (SURFACEFMT_YV12)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 92]: 0x00000000 (LOGICOPS)
+2021-04-05T13:13:07.613+05:30| vmx| I120:   cap[ 93]: 0x00000000 (SCREENTARGETS)
+2021-04-05T13:13:07.613+05:30| vmx| I120: MKS3dCaps: guest, compatibility level: No-Clamping
+2021-04-05T13:13:07.613+05:30| svga| I120: VTHREAD start thread 13 "svga" host id 1920
+2021-04-05T13:13:07.614+05:30| vmx| I120: hread 1920 5864USB: Initializing 'UHCI' host controller
+2021-04-05T13:13:07.614+05:30| svga| I120: SVGA thread is alive
+2021-04-05T13:13:07.614+05:30| vmx| I120: Ethernet0 MAC Address: 00:0c:29:7b:97:32
+2021-04-05T13:13:07.615+05:30| vmx| I120: USB: Initializing 'EHCI' host controller
+2021-04-05T13:13:07.621+05:30| vmx| I120: VMCIDatagram: Attempt to create handle (14) with no device
+2021-04-05T13:13:07.622+05:30| vmx| I120: WORKER: Creating new group with numThreads=1 (37)
+2021-04-05T13:13:07.622+05:30| vmx| I120: DISKUTIL: scsi0:0 : max toolsVersion = 9408
+2021-04-05T13:13:07.622+05:30| vmx| I120: TOOLS setting legacy tools version to '9408', manifest status is 9
+2021-04-05T13:13:07.622+05:30| vmx| I120: MsgHint: msg.tools.toolsReminder
+2021-04-05T13:13:07.622+05:30| vmx| I120+ Install the VMware Tools package inside this virtual machine. After the guest operating system starts, select VM > Install VMware Tools… and follow the instructions.
+2021-04-05T13:13:07.622+05:30| vmx| I120+ ---------------------------------------
+2021-04-05T13:13:07.623+05:30| Worker#1| I120: GetHostManifests: Extracting the manifest file.
+2021-04-05T13:13:07.643+05:30| Worker#1| I120: GetHostManifests: Done extracting the manifest file.
+2021-04-05T13:13:07.643+05:30| Worker#1| I120: ToolsVersionGetStatus:
+2021-04-05T13:13:07.643+05:30| Worker#1| I120: ToolsVersion: Status is too old because this is status of monolithic version.
+2021-04-05T13:13:07.643+05:30| Worker#1| I120: ToolsVersionGetStatusWorkerThread: Tools status 1 derived from environment
+2021-04-05T13:13:07.644+05:30| Worker#1| I120: GetHostManifests: Extracting the manifest file.
+2021-04-05T13:13:07.645+05:30| Worker#1| I120: GetHostManifests: Done extracting the manifest file.
+2021-04-05T13:13:07.645+05:30| Worker#1| I120: ToolsVersionGetStatus:
+2021-04-05T13:13:07.645+05:30| Worker#1| I120: ToolsVersion: Status is too old because this is status of monolithic version.
+2021-04-05T13:13:07.645+05:30| Worker#1| I120: ToolsVersionGetStatusWorkerThread: Tools status 1 derived from environment
+2021-04-05T13:13:07.666+05:30| vmx| I120: TOOLS INSTALL initializing state to IDLE on power on.
+2021-04-05T13:13:07.744+05:30| vmx| I120: memoryHotplug: No PCI hole remapping.  Hot add and hot remove unsupported
+2021-04-05T13:13:07.749+05:30| vmx| I120: FeatureCompat: VM masks:
+2021-04-05T13:13:07.749+05:30| vmx| I120: MonPmc: ctrBase 0x4c1 selBase 0x186/1 PGC 1/1 SMM 1 drain 1 flush 0
+2021-04-05T13:13:07.749+05:30| vmx| I120+ MonPmc:   gen counters num: 4 width 48 write width 48
+2021-04-05T13:13:07.749+05:30| vmx| I120+ MonPmc:   fix counters num: 3 width 48
+2021-04-05T13:13:07.749+05:30| vmx| I120+ MonPmc:   unavailable counters: 0
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCpuFeatures = 0x2002fd
+2021-04-05T13:13:07.769+05:30| vmx| I120: Guest CPUID differences from hostCPUID.
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 00000001, 0: 0x000206a7 0x00010800 0x00982203 0x0fabbbff
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 00000004, 0: 0x00000121 0x01c0003f 0x0000003f 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 00000004, 1: 0x00000122 0x01c0003f 0x0000003f 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 00000004, 2: 0x00000143 0x01c0003f 0x000001ff 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 00000004, 3: 0x00000163 0x02c0003f 0x00000fff 0x00000006
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 0000000a, 0: 0x07300401 0x0000007f 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 0000000b, 0: 0x00000000 0x00000001 0x00000100 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 0000000b, 1: 0x00000000 0x00000001 0x00000201 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 0000000d, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000000, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000001, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000002, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000004, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000006, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 4000000a, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 4000000b, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 4000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 4000000d, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 4000000e, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 4000000f, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 40000010, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.769+05:30| vmx| I120: guestCPUID level 80000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2021-04-05T13:13:07.770+05:30| vmx| I120: Minimum ucode level: 1800000000
+2021-04-05T13:13:07.770+05:30| vmx| I120: VPMC: events will use hybrid freeze.
+2021-04-05T13:13:07.770+05:30| vmx| I120: VPMC: gen counters: num 4 mask 0xffffffffffff
+2021-04-05T13:13:07.770+05:30| vmx| I120: VPMC: fix counters: num 0 mask 0; version 1
+2021-04-05T13:13:07.770+05:30| vmx| I120: VPMC: hardware counters: 0
+2021-04-05T13:13:07.770+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:13:07.772+05:30| vmx| I120: BusMemSampleSetUpStats: touched: initPct 75 pages 393216 : dirtied: initPct 75 pages 393216
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: caller 0 numvm 1 locked pages: num 1524 max 774400
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: locked Page Limit: host 940558 config 782592 dynam 842290
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: minmempct 50  timestamp 5553
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: VM 0 min 303110 max 565254 shares 524288 paged 177491 nonpaged 35897 anonymous 5069 locked 1524 shared 0 sharedUsr 524288 touchedPct 75 dirtiedPct 75 timestamp 5553 vmResponsive is 1
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: locked 1524 target 565254 balloon 0 0 0 swapped 0 0 0 allocd 0 512 state 0 100
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: states: 0 1 : 1 0 : 2 0 : 3 0
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: Balloon enabled 1 guestType 0 maxSize 0
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: Z     0 524288
+2021-04-05T13:13:07.772+05:30| vmx| I120: MemSched: COWStats [0]: shared 524288 524288 breaks 0 0 inits 524288 pool 0 overflow 0
+2021-04-05T13:13:07.772+05:30| vmx| I120: FeatureCompat: Capabilities:
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.fixctr.1 = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: cpuid.Intel = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: cpuid.XSAVE = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.fixctr.0 = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: cpuid.LM = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: cpuid.MWAIT = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.numGenCtrs = 0x4
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.fixedWidth = 0x30
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: cpuid.VMX = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.genWidth = 0x30
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.version = 0x3
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: cpuid.XCR0_MASTER_YMM_H = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.fixctr.2 = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: cpuid.PCID = 0x1
+2021-04-05T13:13:07.772+05:30| vmx| I120: Capability Found: vpmc.microarchitecture.sandybridge = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: vpmc.genctr.2 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.SSSE3 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.SSE3 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.NX = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.SSE41 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.PCLMULQDQ = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.SS = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.POPCNT = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.AVX = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: vpmc.genctr.3 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: vt.realmode = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.DS = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: vpmc.genctr.0 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.RDTSCP = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.LAHF64 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: hv.capable = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.CMPXCHG16B = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: vpmc.numFixedCtrs = 0x3
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: vpmc.genctr.1 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.SSE42 = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: Capability Found: cpuid.XCR0_MASTER_SSE = 0x1
+2021-04-05T13:13:07.773+05:30| vmx| I120: FeatureCompat: Requirements:
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.SSE3 - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.PCLMULQDQ - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.SSSE3 - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.CMPXCHG16B - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.SSE41 - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.SSE42 - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.POPCNT - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.DS - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.SS - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.LAHF64 - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.NX - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.RDTSCP - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.LM - Bool:Min:1
+2021-04-05T13:13:07.773+05:30| vmx| I120: VM Features Required: cpuid.Intel - Bool:Min:1
+2021-04-05T13:13:07.774+05:30| vmx| I120: TOOLS received request in VMX to set option 'enableDnD' -> '1'
+2021-04-05T13:13:07.775+05:30| vmx| I120: 
+2021-04-05T13:13:07.775+05:30| vmx| I120+ OvhdMem: Static (Power On) Overheads
+2021-04-05T13:13:07.775+05:30| vmx| I120:                                                   reserved     |          used
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem excluded                                  cur    max   |    cur    max    avg
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_MainMem                    :  524288 524288   |      -      -      -
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxText                    :    5376   5376   |      -      -      -
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxTextLibs                :   15360  15360   |      -      -      -
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem Total excluded                      :  545024 545024   |      -      -      -
+2021-04-05T13:13:07.775+05:30| vmx| I120: 
+2021-04-05T13:13:07.775+05:30| vmx| I120:                                                   reserved     |          used
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem paged                                     cur    max   |    cur    max    avg
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_vmm                 :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_STATS_vmm                  :       2      2   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_device              :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_STATS_device               :       1      1   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_KSTATS_migrate             :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_DiskLibMemUsed             :    3075   3075   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VgaShadowFB                :     347    347   |    347    347      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_SvgaSurfaceTable           :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_SvgaShaderTable            :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_SvgaShaderText             :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_SvgaContextTable           :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxAllocTrack              :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxCallStackProf           :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxGlobals                 :   10240  10240   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxGlobalsLibs             :    3584   3584   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxHeap                    :    6400   6400   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxHeapFreeList            :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMainMemCheck            :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMks                     :      33     33   |      2      2      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksThumbnail            :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMks3d                   :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksGLRenderer           :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksLLVM                 :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksScreenshot           :   65537  65537   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksVnc                  :   37712  37712   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxMksShadowFB             :   32768  32768   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxPhysMemRingBuf          :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxReplayCheck             :       0   4096   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxFTCptOutputBuf          :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxSLEntryBuf              :     128    128   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadMks               :     512    512   |    512    512      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadVmx               :     512    512   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadsVcpu             :     256    256   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadsWorker           :   15872  15872   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VmxThreadSvga              :     512    512   |    512    512      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem Total paged                         :  177491 181587   |   1373   1373      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: 
+2021-04-05T13:13:07.775+05:30| vmx| I120:                                                   reserved     |          used
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem nonpaged                                  cur    max   |    cur    max    avg
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_SharedArea                 :     174    174   |     58     58      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_BusMemTraceBitmap          :      20     20   |     17     17      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_PFrame                     :    1053   1350   |   1053   1053      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VProbe                     :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VIDE_KSEG                  :      16     16   |     16     16      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VGA                        :      64     64   |     64     64      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_PShareMPN                  :       6      6   |      5      5      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_P2MUpdateBuffer            :       3      3   |      3      3      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_SharedMPNsPool             :      20     20   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_ServicesMPN                :       2      2   |      2      2      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_LocalApic                  :       1      1   |      1      1      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_BusError                   :       1      1   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VBIOS                      :       8      8   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VnicGuest                  :      16     16   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_VnicMmap                   :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_TestDev                    :       0      0   |      0      0      0
+2021-04-05T13:13:07.775+05:30| vmx| I120: OvhdMem OvhdUser_LSIBIOS                    :       4      4   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_LSIRings                   :       4      4   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_PCIPBIOS                   :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_PVSCSIBIOS                 :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_PVSCSIKickReg              :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_SAS1068BIOS                :       4      4   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_SBIOS                      :      16     16   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_AHCIBIOS                   :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_FlashRam                   :     128    128   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_SVGAFB                     :   32768  32768   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_SVGAMEM                    :     512    512   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_HDAudioReg                 :       3      3   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_EHCIRegister               :       1      1   |      1      1      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_XhciRegister               :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_PhysMemDebug               :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_HyperV                     :       2      2   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_HVIOBitmap                 :       3      3   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_HVMSRBitmap                :       2      2   |      1      1      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_VHVGuestMSRBitmap          :       2      2   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_vhvCachedVMCS              :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_StateLoggerLogBuf          :       0    512   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_PCIP                       :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_VMsafe                     :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_MonWired                   :      54     54   |     54     54      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_MonLow                     :       2      2   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_MonWiredNuma               :      26     26   |     26     26      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_MonNuma                    :     662    662   |    240    240      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_MonOther                   :      18     18   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_SVMLowMem                  :       2      2   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_PAEShadow                  :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdUser_FTCpt                      :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem Total nonpaged                      :   35600  36409   |   1541   1541      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: 
+2021-04-05T13:13:07.776+05:30| vmx| I120:                                                   reserved     |          used
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem anonymous                                 cur    max   |    cur    max    avg
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_Alloc                       :      71     71   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusMemFrame                 :    1168   1351   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusMemFramePGAR             :       3      3   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusMemTracePGAR             :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusMem2MRegionPGAR          :       8      8   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusMemZapListMPN            :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusMemRemap                 :       2      2   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_MMU                         :     701    701   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_ScratchAS                   :     162    162   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_MonTLB                      :       6      6   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_DT                          :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_TCCoherency                 :       6      6   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_TC                          :     512    512   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_ChainInfo                   :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_Island                      :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusMemScratchAS             :       6      6   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_PlatformScratchAS           :       5      5   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BackdoorHintsMPN            :       2      2   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_HV                          :       3      3   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_VHV                         :       4      4   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_VNPTShadow                  :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_VNPTShadowCache             :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_VNPTBackmap                 :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_SVMIDT                      :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_CallStackProfAnon           :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_Numa                        :     643    643   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_WiredNuma                   :      26     26   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_GPhysTraced                 :     247    247   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_GPhysHWMMU                  :    1243   1243   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_GPhysNoTrace                :      61     61   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BTScratchPage               :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_StateLoggerBufferPA         :       1      1   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_TraceALot                   :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_VIDE                        :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_VMXNETWake                  :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_BusLogic                    :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_Ahci                        :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_PVSCSIShadowRing            :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_LSIRings                    :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_FTCptScratchAS              :       0      0   |      0      0      0
+2021-04-05T13:13:07.776+05:30| vmx| I120: OvhdMem OvhdMon_VProbe                      :       1      1   |      0      0      0
+2021-04-05T13:13:07.777+05:30| vmx| I120: OvhdMem Total anonymous                     :    4886   5069   |      0      0      0
+2021-04-05T13:13:07.777+05:30| vmx| I120: 
+2021-04-05T13:13:07.777+05:30| vmx| I120: VMMEM: Precise Reservation: 16776039MB (MainMem=2048MB)
+2021-04-05T13:13:07.777+05:30| vmx| I120: Vix: [2884 mainDispatch.c:1116]: VMAutomation_PowerOn. Powering on.
+2021-04-05T13:13:07.779+05:30| vmx| I120: VMX_PowerOn: ModuleTable_PowerOn = 1
+2021-04-05T13:13:07.794+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:13:07.796+05:30| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:13:07.797+05:30| vcpu-0| I120: VTHREAD start thread 3 "vcpu-0" host id 5504
+2021-04-05T13:13:07.798+05:30| vcpu-0| I120: APIC: version = 0x15, max LVT = 6, LDR = 0x1000000, DFR = 0xffffffff
+2021-04-05T13:13:07.798+05:30| vmx| I120: hread 5504 5864VMXVmdb_SetToolsVersionStatus: status value set to 'oldTools', 'tooOld', install possible
+2021-04-05T13:13:07.802+05:30| vmx| I120: VMXVmdb_SetToolsVersionStatus: status value set to 'oldTools', 'tooOld', install possible
+2021-04-05T13:13:07.802+05:30| vcpu-0| I120: CPU reset: hard (mode 2)
+2021-04-05T13:13:07.802+05:30| vcpu-0| I120: PIIX4: PM Resuming from suspend type 0x0, chipset.onlineStandby 0
+2021-04-05T13:13:07.802+05:30| vcpu-0| I120: USB: Connecting device 0x400000040e0f0003
+2021-04-05T13:13:07.850+05:30| vcpu-0| I120: USB: Connecting device 0x10e0f0002
+2021-04-05T13:13:08.045+05:30| vcpu-0| I120: SOUND 003.596481 ES1371Win32GetMixerCtl mixerGetLineInfo error 1024
+2021-04-05T13:13:08.046+05:30| vcpu-0| I120: VNET: MACVNetConnectToNetwork Ethernet0: notify available
+2021-04-05T13:13:08.047+05:30| vcpu-0| I120: CDROM: Connecting ide1:0 to 'G:'. type=0 remote=0
+2021-04-05T13:13:08.076+05:30| vcpu-0| I120: CDROM-SG:  Opening device '\\?\ide#cdromtsstcorp_cddvdw_ts-l633f________________sn01____#4&280a8a15&0&0.1.0#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}'
+2021-04-05T13:13:08.077+05:30| vcpu-0| I120: SGWIN:  '\\?\ide#cdromtsstcorp_cddvdw_ts-l633f________________sn01____#4&280a8a15&0&0.1.0#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}' Length 24 MaxTransferLength 131072 MaxPhysPages 33
+2021-04-05T13:13:08.077+05:30| vcpu-0| I120+ SGWIN:  AlignMask 0x2 !AsyncEvent !TaggedQ ScanUp PIO
+2021-04-05T13:13:08.077+05:30| vcpu-0| I120: SGWIN:  Device's alignment mask of 0x2 cannot be satisfied. Rounding it up to 1 less than nearest power of 2.
+2021-04-05T13:13:08.080+05:30| vcpu-0| I120: CDROM: Checking initial physical media state...
+2021-04-05T13:13:08.100+05:30| vcpu-0| I120: CDROM:  initial physical CDROM state is 4 (sense)
+2021-04-05T13:13:08.101+05:30| vcpu-0| I120: Vix: [5504 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1872, success=1 additionalError=0
+2021-04-05T13:13:08.103+05:30| vcpu-0| I120: Vix: [5504 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=0, err=0).
+2021-04-05T13:13:08.103+05:30| vcpu-0| I120: Vix: [5504 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=2, err=0).
+2021-04-05T13:13:08.103+05:30| vcpu-0| I120: Transitioned vmx/execState/val to poweredOn
+2021-04-05T13:13:08.104+05:30| vcpu-0| I120: Intel VT: VPID enabled.
+2021-04-05T13:13:08.104+05:30| vcpu-0| I120: Intel VT enabled.
+2021-04-05T13:13:08.234+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xf0000000(0x0) and 0xfe000000(0x0)
+2021-04-05T13:13:08.236+05:30| vcpu-0| I120: SVGA: Unregistering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:08.252+05:30| mks| I120: KHBKL: Unable to parse keystring at: ''
+2021-04-05T13:13:08.290+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:08.293+05:30| vmx| I120: VUsbUpdateVigorFieldsAndAutoconnect: New set of 2 USB devices
+2021-04-05T13:13:08.293+05:30| vmx| I120: USB: Found device [name:Chicony\ Sony\ Visual\ Communication\ Camera vid:04f2 pid:b290 path:1/0/0/1 speed:high family:other,imaging instanceId:USB\\VID_04F2&PID_B290\\SONY_VISUAL_COMMUNICATION_CAMERA serialnum:SONY_VISUAL_COMMUNICATION_CAMERA arbRuntimeKey:1 version:2]
+2021-04-05T13:13:08.293+05:30| vmx| I120: USB: Found device [name:Virtual\ Bluetooth\ Adapter vid:0a12 pid:0001 speed:full family:wireless,bluetooth deviceType:virtual-bluetooth version:2]
+2021-04-05T13:13:08.295+05:30| vcpu-0| I120: SVGA: Unregistering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:08.295+05:30| vcpu-0| I120: SVGA: Registering IOSpace at 0x1410
+2021-04-05T13:13:08.295+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:08.349+05:30| mks| I120: GDI-Backend: successfully started by HWinMux to do window composition.
+2021-04-05T13:13:08.354+05:30| mks| I120: MKS-SWB: Number of MKSWindows changed: 1 rendering MKSWindow(s) of total 1.
+2021-04-05T13:13:08.457+05:30| vcpu-0| I120: DISKUTIL: scsi0:0 : geometry=3916/255/63
+2021-04-05T13:13:08.457+05:30| vcpu-0| I120: DISKUTIL: scsi0:0 : capacity=62914560
+2021-04-05T13:13:08.457+05:30| vcpu-0| I120: SCSI0: RESET BUS
+2021-04-05T13:13:08.640+05:30| vcpu-0| I120: BIOS-UUID is 56 4d 65 74 6b 54 98 2a-20 ef 2a 57 2f 7b 97 32
+2021-04-05T13:13:08.898+05:30| vcpu-0| I120: Unknown int 10h func 0x2000
+2021-04-05T13:13:14.387+05:30| vcpu-0| I120: DDB: "longContentID" = "a47e5ad19ee1f4b58762ad8616695484" (was "a0585c8f3d9fdc702ed1aeb47ee5f3ac")
+2021-04-05T13:13:15.464+05:30| vcpu-0| I120: UHCI: Global Reset
+2021-04-05T13:13:15.509+05:30| vcpu-0| I120: SVGA: Unregistering IOSpace at 0x1410
+2021-04-05T13:13:15.509+05:30| vcpu-0| I120: SVGA: Unregistering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:15.510+05:30| vcpu-0| I120: SVGA: Registering IOSpace at 0x1410
+2021-04-05T13:13:15.510+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:16.431+05:30| vmx| I120: CDROM ide1:0: CMD 0x5a (MODE SENSE(10)) FAILED (key 0x5 asc 0x24 ascq 0)
+2021-04-05T13:13:16.435+05:30| vcpu-0| I120: SCSI0: RESET BUS
+2021-04-05T13:13:16.549+05:30| vcpu-0| I120: SCSI scsi0:0: Unsupported command READ BUFFER issued. --ok
+2021-04-05T13:13:16.549+05:30| vcpu-0| I120: SCSI scsi0:0: Unsupported command READ BUFFER issued. --ok
+2021-04-05T13:13:16.609+05:30| vcpu-0| I120: SCSI DEVICE (scsi0:0): MODE SENSE(6) for unsupported page 0x1c
+2021-04-05T13:13:27.342+05:30| vcpu-0| I120: UHCI: Global Reset
+2021-04-05T13:13:27.422+05:30| vcpu-0| I120: SVGA: Unregistering IOSpace at 0x1410
+2021-04-05T13:13:27.422+05:30| vcpu-0| I120: SVGA: Unregistering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:27.423+05:30| vcpu-0| I120: SVGA: Registering IOSpace at 0x1410
+2021-04-05T13:13:27.423+05:30| vcpu-0| I120: SVGA: Registering MemSpace at 0xf0000000(0xf0000000) and 0xfe000000(0xfe000000)
+2021-04-05T13:13:27.424+05:30| vcpu-0| I120: Guest: SVGA_MINI: VMXFindAdapter
+2021-04-05T13:13:27.424+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA Driver Version: 12.00.25.0000 - build-1231026
+2021-04-05T13:13:27.424+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA ID: 0x90000002
+2021-04-05T13:13:27.424+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA Caps: 0x000b83e2 (No 3D, EXTENDED FIFO, no GMR, no GMR2, no GB)
+2021-04-05T13:13:27.425+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA VRAM reg: 33554432, VRAM adjusted: 33554432, MEMORY reg: 838860800, FIFO len: 2097152
+2021-04-05T13:13:27.425+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA GMR: max IDs=64, max desc length=4096
+2021-04-05T13:13:27.425+05:30| vcpu-0| I120: Guest: SVGA_MINI: MULTIMON: Pitch lock set to 15360
+2021-04-05T13:13:27.540+05:30| vcpu-0| I120: Guest OS = 0x5008
+2021-04-05T13:13:27.563+05:30| vcpu-0| I120: VNET: MACVNetConnectToNetwork Ethernet0: notify available
+2021-04-05T13:13:27.565+05:30| vcpu-0| I120: Guest: VMXNET: Initialization completed successfully. Version 2.2 May  8 2012.
+2021-04-05T13:13:27.565+05:30| vcpu-0| I120: Guest: VMXNET: Features: 
+2021-04-05T13:13:27.565+05:30| vcpu-0| I120: Guest: VMXNET: Vmxnet rx ringLen1 = 100, ringLen2 = 1
+2021-04-05T13:13:31.336+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.151 seconds (ok)
+2021-04-05T13:13:31.347+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.145 seconds (ok)
+2021-04-05T13:13:31.403+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.339 seconds (ok)
+2021-04-05T13:13:31.703+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.504 seconds (ok)
+2021-04-05T13:13:31.709+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.508 seconds (ok)
+2021-04-05T13:13:31.725+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.522 seconds (ok)
+2021-04-05T13:13:31.760+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.323 seconds (ok)
+2021-04-05T13:13:31.760+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.323 seconds (ok)
+2021-04-05T13:13:31.792+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.361 seconds (ok)
+2021-04-05T13:13:31.804+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.124 seconds (ok)
+2021-04-05T13:13:31.850+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.273 seconds (ok)
+2021-04-05T13:13:31.872+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.253 seconds (ok)
+2021-04-05T13:13:31.872+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.248 seconds (ok)
+2021-04-05T13:13:31.872+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.242 seconds (ok)
+2021-04-05T13:13:31.873+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.242 seconds (ok)
+2021-04-05T13:13:31.873+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.242 seconds (ok)
+2021-04-05T13:13:32.849+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.396 seconds (ok)
+2021-04-05T13:13:32.855+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.402 seconds (ok)
+2021-04-05T13:13:32.860+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.644 seconds (ok)
+2021-04-05T13:13:32.866+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.416 seconds (ok)
+2021-04-05T13:13:32.868+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.419 seconds (ok)
+2021-04-05T13:13:33.478+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.255 seconds (ok)
+2021-04-05T13:13:33.532+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.353 seconds (ok)
+2021-04-05T13:13:33.532+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.347 seconds (ok)
+2021-04-05T13:13:33.913+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.023 seconds (ok)
+2021-04-05T13:13:33.913+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.018 seconds (ok)
+2021-04-05T13:13:33.914+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.010 seconds (ok)
+2021-04-05T13:13:33.915+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.005 seconds (ok)
+2021-04-05T13:13:34.025+05:30| vmx| I120: scsi0:0: Command READ(10) took 2.810 seconds (ok)
+2021-04-05T13:13:34.068+05:30| vmx| I120: scsi0:0: Command READ(10) took 2.854 seconds (ok)
+2021-04-05T13:13:34.111+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.860 seconds (ok)
+2021-04-05T13:13:34.111+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.855 seconds (ok)
+2021-04-05T13:13:34.188+05:30| vmx| I120: scsi0:0: Command READ(10) took 2.030 seconds (ok)
+2021-04-05T13:13:34.374+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.755 seconds (ok)
+2021-04-05T13:13:34.393+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.781 seconds (ok)
+2021-04-05T13:13:34.404+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.250 seconds (ok)
+2021-04-05T13:13:34.538+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.935 seconds (ok)
+2021-04-05T13:13:36.816+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.176 seconds (ok)
+2021-04-05T13:13:36.816+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.176 seconds (ok)
+2021-04-05T13:13:37.003+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.168 seconds (ok)
+2021-04-05T13:13:37.004+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.153 seconds (ok)
+2021-04-05T13:13:37.005+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.153 seconds (ok)
+2021-04-05T13:13:37.006+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.154 seconds (ok)
+2021-04-05T13:13:37.007+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.148 seconds (ok)
+2021-04-05T13:13:37.008+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.149 seconds (ok)
+2021-04-05T13:13:37.009+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.149 seconds (ok)
+2021-04-05T13:13:37.010+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.150 seconds (ok)
+2021-04-05T13:13:37.010+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.150 seconds (ok)
+2021-04-05T13:13:37.010+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.150 seconds (ok)
+2021-04-05T13:13:37.010+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.144 seconds (ok)
+2021-04-05T13:13:37.018+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.202 seconds (ok)
+2021-04-05T13:13:37.019+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.202 seconds (ok)
+2021-04-05T13:13:37.020+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.198 seconds (ok)
+2021-04-05T13:13:37.021+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.192 seconds (ok)
+2021-04-05T13:13:37.023+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.194 seconds (ok)
+2021-04-05T13:13:37.023+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.188 seconds (ok)
+2021-04-05T13:13:37.023+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.188 seconds (ok)
+2021-04-05T13:13:37.170+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.366 seconds (ok)
+2021-04-05T13:13:37.170+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.354 seconds (ok)
+2021-04-05T13:13:37.215+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.496 seconds (ok)
+2021-04-05T13:13:37.258+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.539 seconds (ok)
+2021-04-05T13:13:38.063+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.234 seconds (ok)
+2021-04-05T13:13:38.557+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.139 seconds (ok)
+2021-04-05T13:13:38.558+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.140 seconds (ok)
+2021-04-05T13:13:38.680+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.266 seconds (ok)
+2021-04-05T13:13:39.164+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.334 seconds (ok)
+2021-04-05T13:13:39.164+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.334 seconds (ok)
+2021-04-05T13:13:39.164+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.329 seconds (ok)
+2021-04-05T13:13:39.354+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.374 seconds (ok)
+2021-04-05T13:13:39.355+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.375 seconds (ok)
+2021-04-05T13:13:39.355+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.375 seconds (ok)
+2021-04-05T13:13:39.470+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.105 seconds (ok)
+2021-04-05T13:13:40.059+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.698 seconds (ok)
+2021-04-05T13:13:40.059+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.697 seconds (ok)
+2021-04-05T13:13:41.173+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.361 seconds (ok)
+2021-04-05T13:13:41.173+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.360 seconds (ok)
+2021-04-05T13:13:41.173+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.360 seconds (ok)
+2021-04-05T13:13:41.173+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.359 seconds (ok)
+2021-04-05T13:13:41.173+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.358 seconds (ok)
+2021-04-05T13:13:41.174+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.357 seconds (ok)
+2021-04-05T13:13:41.174+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.346 seconds (ok)
+2021-04-05T13:13:41.174+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.336 seconds (ok)
+2021-04-05T13:13:41.219+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.380 seconds (ok)
+2021-04-05T13:13:41.219+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.380 seconds (ok)
+2021-04-05T13:13:41.220+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.373 seconds (ok)
+2021-04-05T13:13:41.220+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.373 seconds (ok)
+2021-04-05T13:13:41.220+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.366 seconds (ok)
+2021-04-05T13:13:41.220+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.365 seconds (ok)
+2021-04-05T13:13:41.220+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.364 seconds (ok)
+2021-04-05T13:13:42.012+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.026 seconds (ok)
+2021-04-05T13:13:42.016+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.074 seconds (ok)
+2021-04-05T13:13:42.017+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.074 seconds (ok)
+2021-04-05T13:13:42.017+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.073 seconds (ok)
+2021-04-05T13:13:42.017+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.035 seconds (ok)
+2021-04-05T13:13:42.018+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.035 seconds (ok)
+2021-04-05T13:13:42.018+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.033 seconds (ok)
+2021-04-05T13:13:43.332+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.157 seconds (ok)
+2021-04-05T13:13:43.333+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.158 seconds (ok)
+2021-04-05T13:13:43.477+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.302 seconds (ok)
+2021-04-05T13:13:43.641+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.467 seconds (ok)
+2021-04-05T13:13:43.672+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.536 seconds (ok)
+2021-04-05T13:13:43.819+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.678 seconds (ok)
+2021-04-05T13:13:44.513+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.532 seconds (ok)
+2021-04-05T13:13:49.182+05:30| vcpu-0| I120: Guest: SVGA_MINI: VMXInitialize
+2021-04-05T13:13:49.182+05:30| vcpu-0| I120: SVGA: Sync FIFO with SVGA disabled
+2021-04-05T13:13:49.182+05:30| vcpu-0| I120: SVGA enabling SVGA
+2021-04-05T13:13:49.203+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA FIFO Caps: 0x0000007f
+2021-04-05T13:13:49.203+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA FIFO HW Version: host 0x00000000, guest 0x00020001
+2021-04-05T13:13:49.212+05:30| vcpu-0| I120: Guest: SVGA_MINI: IOCTL_VIDEO_SWITCH_DUALVIEW: id=0, enable=1, numDisplays=2
+2021-04-05T13:13:49.212+05:30| vcpu-0| I120: Guest: SVGA_MINI: IOCTL_VIDEO_SWITCH_DUALVIEW: id=1, enable=0, numDisplays=2
+2021-04-05T13:13:49.213+05:30| vcpu-0| I120: Guest: SVGA_MINI:    SECONDARY MONITOR enabled=0
+2021-04-05T13:13:49.238+05:30| vcpu-0| I120: Guest: vmx_fb: XPDM ICD: Manager metadata size=1497092 bytes
+2021-04-05T13:13:49.238+05:30| vcpu-0| I120: Guest: vmx_fb: XPDM ICD: Heap metadata per-client size=388 bytes
+2021-04-05T13:13:49.357+05:30| vcpu-0| I120: Guest: vmx_fb: XPDM ICD: Manager metadata size=1497092 bytes
+2021-04-05T13:13:49.357+05:30| vcpu-0| I120: Guest: vmx_fb: XPDM ICD: Heap metadata per-client size=388 bytes
+2021-04-05T13:13:49.446+05:30| vcpu-0| I120: Guest: vmx_fb: XPDM ICD: Manager metadata size=1497092 bytes
+2021-04-05T13:13:49.447+05:30| vcpu-0| I120: Guest: vmx_fb: XPDM ICD: Heap metadata per-client size=388 bytes
+2021-04-05T13:13:49.447+05:30| vcpu-0| I120: Guest: vmx_fb: XPDM VMX_FB: SVGA Caps 0x000b83e2, SVGA VRAM size=805306368, fence=0
+2021-04-05T13:13:49.447+05:30| vcpu-0| I120: Guest: SVGA_MINI: Unknown IOCTL 0x230468
+2021-04-05T13:13:49.448+05:30| vcpu-0| I120: Guest: vmx_fb: tap: init
+2021-04-05T13:13:49.449+05:30| vcpu-0| I120: Guest: SVGA_MINI: IOCTL_VIDEO_MAP_VIDEO_MEMORY: vramSize=33554432, mode size=0
+2021-04-05T13:13:49.449+05:30| vcpu-0| I120: Guest display topology changed: numDisplays 1
+2021-04-05T13:13:49.450+05:30| vcpu-0| I120: Guest: SVGA_MINI: SVGA Display Topology: SVGA enabled, FB size=11796480, topology=TRUE
+2021-04-05T13:13:49.450+05:30| vcpu-0| I120: Guest: SVGA_MINI: numDisplayActive=1, Max: wxh=1366x768, pitchlock=15360
+2021-04-05T13:13:49.450+05:30| vcpu-0| I120: Guest: SVGA_MINI: Offscreen: offset=0xb40000, size=21757952
+2021-04-05T13:13:49.450+05:30| vcpu-0| I120: Guest: SVGA_MINI:    DisplayId=0, primary=TRUE
+2021-04-05T13:13:49.450+05:30| vcpu-0| I120: Guest: SVGA_MINI:    Display: offset=0x0, size=11796480, pitch=15360
+2021-04-05T13:13:49.451+05:30| vcpu-0| I120: Guest: SVGA_MINI:       xy=0, 0
+2021-04-05T13:13:49.451+05:30| vcpu-0| I120: Guest: SVGA_MINI:       wxhxd=1366x768x32
+2021-04-05T13:13:49.451+05:30| vcpu-0| I120: Guest: vmx_fb: This is the primary surface: PPDEV e14aa010
+2021-04-05T13:13:49.451+05:30| vcpu-0| I120: Guest: vmx_fb: Display Acceleration: DirectDraw: ok, Direct3D: disabled.
+2021-04-05T13:13:49.452+05:30| vcpu-0| I120: Guest: vmx_fb:   Current hardware revision: 0.0.
+2021-04-05T13:13:49.452+05:30| vcpu-0| I120: Guest: vmx_fb:   Driver compiled against:   2.1.
+2021-04-05T13:13:49.452+05:30| vcpu-0| I120: Guest: vmx_fb: DrvGetDirectDrawInfo: Overlay flags set
+2021-04-05T13:13:49.452+05:30| vcpu-0| I120: Guest: vmx_fb: DrvGetDirectDrawInfo: offset=0x0, wxh=1366x768, bpp=32, pitch=15360
+2021-04-05T13:13:49.452+05:30| vcpu-0| I120: Guest: vmx_fb: This is the primary surface: PPDEV e14aa010
+2021-04-05T13:13:49.453+05:30| vcpu-0| I120: Guest: vmx_fb: Display Acceleration: DirectDraw: ok, Direct3D: disabled.
+2021-04-05T13:13:49.453+05:30| vcpu-0| I120: Guest: vmx_fb:   Current hardware revision: 0.0.
+2021-04-05T13:13:49.453+05:30| vcpu-0| I120: Guest: vmx_fb:   Driver compiled against:   2.1.
+2021-04-05T13:13:49.453+05:30| vcpu-0| I120: Guest: vmx_fb: DrvGetDirectDrawInfo: Overlay flags set
+2021-04-05T13:13:49.453+05:30| vcpu-0| I120: Guest: vmx_fb: DrvGetDirectDrawInfo: offset=0x0, wxh=1366x768, bpp=32, pitch=15360
+2021-04-05T13:13:49.454+05:30| vcpu-0| I120: Guest: vmx_fb: Caps_GetDeviceD3DCaps: HW v0 < 131073
+2021-04-05T13:13:49.454+05:30| vcpu-0| I120: Guest: vmx_fb: Caps_GetDeviceD3DCaps: CANAUTOGENMIPMAP off (0)
+2021-04-05T13:13:49.454+05:30| vcpu-0| I120: Guest: vmx_fb: Caps_GetDeviceD3DCaps: MaxActiveLights=8
+2021-04-05T13:13:49.454+05:30| vcpu-0| I120: Guest: vmx_fb: Caps_GetDeviceD3DCaps: MaxActiveLights=8
+2021-04-05T13:14:04.742+05:30| vcpu-0| I120: Guest: toolbox: Version: build-1294478
+2021-04-05T13:14:04.742+05:30| vcpu-0| I120: GuestRpc: Channel 0, guest application toolbox.
+2021-04-05T13:14:04.742+05:30| vcpu-0| I120: TOOLS Reducing idleLoopSpinUS to 500us
+2021-04-05T13:14:04.780+05:30| vcpu-0| I120: TOOLS autoupgrade protocol version 2
+2021-04-05T13:14:04.783+05:30| vcpu-0| I120: TOOLS Received tools.set.version rpc call, version = 9408.
+2021-04-05T13:14:04.783+05:30| vcpu-0| I120: ToolsSetVersionWork did nothing; new tools version (9408) matches old Tools version
+2021-04-05T13:14:04.783+05:30| vcpu-0| I120: Starting copy guest manifest.
+2021-04-05T13:14:04.787+05:30| vcpu-0| I120: HGFileCopyCreateSessionCB: Successfully created the session.
+2021-04-05T13:14:04.788+05:30| vcpu-0| I120: ToolsLoadManifestFileCB: Queuing a request to update the manifest information.
+2021-04-05T13:14:04.789+05:30| Worker#0| I120: GetHostManifests: Extracting the manifest file.
+2021-04-05T13:14:04.790+05:30| Worker#0| I120: GetHostManifests: Done extracting the manifest file.
+2021-04-05T13:14:04.790+05:30| Worker#0| I120: ToolsVersionGetStatus:
+2021-04-05T13:14:04.790+05:30| Worker#0| I120: ToolsVersion: Status is too old because this is status of monolithic version and 25 more components.
+2021-04-05T13:14:04.790+05:30| Worker#0| I120: ToolsVersionGetStatusWorkerThread: Tools status 1 derived from environment
+2021-04-05T13:14:04.790+05:30| vmx| I120: ToolsUpdateManifestInfoWorkerThreadDone: Compared tools manifest from host and from the guest. Status = 1.
+2021-04-05T13:14:04.791+05:30| vmx| I120: ToolsUpdateManifestInfoWorkerThreadDone: Updating the manifest info.
+2021-04-05T13:14:04.791+05:30| vmx| I120: VMXVmdb_SetToolsVersionStatus: status value set to 'oldTools', 'tooOld', install possible
+2021-04-05T13:14:04.791+05:30| vmx| I120: TOOLS installed legacy version 9408, available legacy version 9409
+2021-04-05T13:14:04.791+05:30| vmx| I120: TOOLS manifest update status is 1
+2021-04-05T13:14:04.791+05:30| vmx| I120: TOOLS can be autoupgraded.
+2021-04-05T13:14:04.791+05:30| vmx| I120: TOOLS VM tools upgrade policy 0
+2021-04-05T13:14:04.791+05:30| vmx| I120: TOOLS global tools upgrade policy "manual"
+2021-04-05T13:14:04.791+05:30| vmx| I120: TOOLS need not be autoupgraded according to upgrade policy.
+2021-04-05T13:14:04.791+05:30| vmx| I120: TOOLS Setting autoupgrade-checked TRUE.
+2021-04-05T13:14:04.791+05:30| vmx| I120: RPT: Not ESX. Skipped.
+2021-04-05T13:14:05.909+05:30| vcpu-0| I120: TOOLS state change 3 returned status 1
+2021-04-05T13:14:05.909+05:30| vcpu-0| I120: Vix: [5504 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=2, err=0).
+2021-04-05T13:14:08.111+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-05T13:14:21.202+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:14:21.620+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.203 seconds (ok)
+2021-04-05T13:14:21.628+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.201 seconds (ok)
+2021-04-05T13:14:22.967+05:30| mks| I120: Msg_Post: Warning
+2021-04-05T13:14:22.967+05:30| mks| I120: [msg.keyboardHook.cad] VMware Workstation has detected that "Ctrl+Alt+Delete" was typed inside the virtual machine. Even when the virtual machine has control of the keyboard and the mouse, "Ctrl+Alt+Delete" is processed by both the virtual machine and the host operating system.
+2021-04-05T13:14:22.967+05:30| mks| I120: [msg.keyboardHook.cad.hotkey] To send "Ctrl+Alt+Delete" only to the virtual machine, type "Ctrl+Alt+Insert" instead.
+2021-04-05T13:14:22.967+05:30| mks| I120: ----------------------------------------
+2021-04-05T13:14:22.968+05:30| mks| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:14:23.223+05:30| mks| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:14:32.629+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.006 seconds (ok)
+2021-04-05T13:14:32.941+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.457 seconds (ok)
+2021-04-05T13:14:33.234+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.750 seconds (ok)
+2021-04-05T13:14:33.234+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.750 seconds (ok)
+2021-04-05T13:14:35.048+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.003 seconds (ok)
+2021-04-05T13:14:36.024+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.033 seconds (ok)
+2021-04-05T13:14:36.089+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.075 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.074 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.074 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.074 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.074 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.071 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.043 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.043 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.043 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.013 seconds (ok)
+2021-04-05T13:14:36.090+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.013 seconds (ok)
+2021-04-05T13:14:36.124+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.103 seconds (ok)
+2021-04-05T13:14:37.309+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.214 seconds (ok)
+2021-04-05T13:14:37.310+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.186 seconds (ok)
+2021-04-05T13:14:38.164+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.305 seconds (ok)
+2021-04-05T13:14:38.164+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.305 seconds (ok)
+2021-04-05T13:14:38.626+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.016 seconds (ok)
+2021-04-05T13:14:41.497+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.204 seconds (ok)
+2021-04-05T13:14:41.497+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.185 seconds (ok)
+2021-04-05T13:14:41.497+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 2.122 seconds (ok)
+2021-04-05T13:14:41.498+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 2.122 seconds (ok)
+2021-04-05T13:14:41.498+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 2.061 seconds (ok)
+2021-04-05T13:14:41.499+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.999 seconds (ok)
+2021-04-05T13:14:41.538+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.216 seconds (ok)
+2021-04-05T13:14:41.597+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.045 seconds (ok)
+2021-04-05T13:14:42.016+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.141 seconds (ok)
+2021-04-05T13:14:42.017+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.141 seconds (ok)
+2021-04-05T13:14:42.017+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.142 seconds (ok)
+2021-04-05T13:14:42.018+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.142 seconds (ok)
+2021-04-05T13:14:42.018+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.142 seconds (ok)
+2021-04-05T13:14:42.019+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.142 seconds (ok)
+2021-04-05T13:14:42.019+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.143 seconds (ok)
+2021-04-05T13:14:42.020+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.143 seconds (ok)
+2021-04-05T13:14:42.056+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.168 seconds (ok)
+2021-04-05T13:14:42.629+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.097 seconds (ok)
+2021-04-05T13:14:42.630+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.097 seconds (ok)
+2021-04-05T13:14:42.631+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.069 seconds (ok)
+2021-04-05T13:14:42.631+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.069 seconds (ok)
+2021-04-05T13:14:42.631+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.069 seconds (ok)
+2021-04-05T13:14:42.632+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.069 seconds (ok)
+2021-04-05T13:14:42.637+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.106 seconds (ok)
+2021-04-05T13:14:42.638+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.106 seconds (ok)
+2021-04-05T13:14:42.638+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.107 seconds (ok)
+2021-04-05T13:14:42.638+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.107 seconds (ok)
+2021-04-05T13:14:43.155+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.129 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.819 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.642 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.642 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.642 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.641 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.641 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.640 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.640 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.612 seconds (ok)
+2021-04-05T13:14:43.845+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.612 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.214 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.209 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.209 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.207 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.206 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.206 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.206 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.205 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.205 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.205 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.205 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.205 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.190 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.190 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.190 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.190 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.190 seconds (ok)
+2021-04-05T13:14:43.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.190 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.189 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.721 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.189 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.189 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.611 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.199 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.189 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.189 seconds (ok)
+2021-04-05T13:14:43.847+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.189 seconds (ok)
+2021-04-05T13:14:43.887+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.178 seconds (ok)
+2021-04-05T13:14:47.039+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.163 seconds (ok)
+2021-04-05T13:14:49.503+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.340 seconds (ok)
+2021-04-05T13:14:49.738+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.384 seconds (ok)
+2021-04-05T13:14:49.743+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.717 seconds (ok)
+2021-04-05T13:14:49.761+05:30| vmx| I120: scsi0:0: Command READ(10) took 2.629 seconds (ok)
+2021-04-05T13:14:49.777+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.759 seconds (ok)
+2021-04-05T13:14:50.560+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.053 seconds (ok)
+2021-04-05T13:14:51.880+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.145 seconds (ok)
+2021-04-05T13:14:52.668+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.181 seconds (ok)
+2021-04-05T13:14:52.669+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.182 seconds (ok)
+2021-04-05T13:14:52.669+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.182 seconds (ok)
+2021-04-05T13:14:52.670+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.182 seconds (ok)
+2021-04-05T13:14:52.670+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.183 seconds (ok)
+2021-04-05T13:14:52.670+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.183 seconds (ok)
+2021-04-05T13:14:52.671+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.183 seconds (ok)
+2021-04-05T13:14:52.672+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.184 seconds (ok)
+2021-04-05T13:14:52.672+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.184 seconds (ok)
+2021-04-05T13:14:52.672+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.184 seconds (ok)
+2021-04-05T13:14:52.673+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.184 seconds (ok)
+2021-04-05T13:14:52.673+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.184 seconds (ok)
+2021-04-05T13:14:52.673+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.184 seconds (ok)
+2021-04-05T13:14:52.674+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.185 seconds (ok)
+2021-04-05T13:14:52.674+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.163 seconds (ok)
+2021-04-05T13:14:52.674+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.163 seconds (ok)
+2021-04-05T13:14:52.675+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.160 seconds (ok)
+2021-04-05T13:14:52.675+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.134 seconds (ok)
+2021-04-05T13:14:52.676+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.105 seconds (ok)
+2021-04-05T13:14:52.676+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.076 seconds (ok)
+2021-04-05T13:14:52.676+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.061 seconds (ok)
+2021-04-05T13:14:52.677+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.061 seconds (ok)
+2021-04-05T13:14:52.677+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.023 seconds (ok)
+2021-04-05T13:14:52.677+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.008 seconds (ok)
+2021-04-05T13:14:52.678+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.008 seconds (ok)
+2021-04-05T13:14:52.702+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.001 seconds (ok)
+2021-04-05T13:15:05.915+05:30| vcpu-0| I120: Guest: toolbox-dnd: Version: build-1294478
+2021-04-05T13:15:05.916+05:30| vcpu-0| I120: GuestRpc: Channel 2, guest application toolbox-dnd.
+2021-04-05T13:15:06.063+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:15:11.549+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.020 seconds (ok)
+2021-04-05T13:15:16.370+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.202 seconds (ok)
+2021-04-05T13:15:19.286+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.033 seconds (ok)
+2021-04-05T13:15:19.304+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.200 seconds (ok)
+2021-04-05T13:15:19.315+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.492 seconds (ok)
+2021-04-05T13:15:19.316+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.491 seconds (ok)
+2021-04-05T13:15:20.002+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.303 seconds (ok)
+2021-04-05T13:15:27.195+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:15:28.976+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.005 seconds (ok)
+2021-04-05T13:15:29.388+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.435 seconds (ok)
+2021-04-05T13:15:59.859+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.011 seconds (ok)
+2021-04-05T13:16:00.893+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:16:58.332+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.042 seconds (ok)
+2021-04-05T13:17:03.293+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.483 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.256 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.166 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.166 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.166 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.166 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.167 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.167 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.167 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.167 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.167 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.168 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.154 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.154 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.114 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.114 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.085 seconds (ok)
+2021-04-05T13:17:04.182+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.085 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.216 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.216 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.214 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.215 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.206 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.206 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.183 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.183 seconds (ok)
+2021-04-05T13:17:06.959+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.161 seconds (ok)
+2021-04-05T13:17:07.006+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.001 seconds (ok)
+2021-04-05T13:17:08.036+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.031 seconds (ok)
+2021-04-05T13:17:08.550+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.039 seconds (ok)
+2021-04-05T13:17:13.230+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.056 seconds (ok)
+2021-04-05T13:17:16.990+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.092 seconds (ok)
+2021-04-05T13:17:18.925+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.320 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.019 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.019 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.019 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:20.531+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.000 seconds (ok)
+2021-04-05T13:17:20.563+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.049 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.026 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.025 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.026 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.026 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.026 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.026 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.026 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.026 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.025 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.025 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.025 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.025 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.025 seconds (ok)
+2021-04-05T13:17:22.793+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.009 seconds (ok)
+2021-04-05T13:17:22.871+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.025 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.005 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.006 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.006 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.007 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.007 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.008 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.008 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.009 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.009 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.009 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.010 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.010 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.010 seconds (ok)
+2021-04-05T13:17:24.494+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.011 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.191 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.192 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.192 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.192 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.193 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.193 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.193 seconds (ok)
+2021-04-05T13:17:24.681+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.164 seconds (ok)
+2021-04-05T13:17:38.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.157 seconds (ok)
+2021-04-05T13:17:38.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.157 seconds (ok)
+2021-04-05T13:17:38.846+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.155 seconds (ok)
+2021-04-05T13:17:38.939+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.242 seconds (ok)
+2021-04-05T13:17:38.939+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.241 seconds (ok)
+2021-04-05T13:17:38.939+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.241 seconds (ok)
+2021-04-05T13:17:38.939+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.187 seconds (ok)
+2021-04-05T13:17:46.739+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.041 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.059 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.060 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.061 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.061 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.061 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.061 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.062 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.062 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.062 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.062 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.062 seconds (ok)
+2021-04-05T13:17:47.363+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.063 seconds (ok)
+2021-04-05T13:17:47.395+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.083 seconds (ok)
+2021-04-05T13:17:47.426+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.085 seconds (ok)
+2021-04-05T13:17:47.909+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.151 seconds (ok)
+2021-04-05T13:17:47.925+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.174 seconds (ok)
+2021-04-05T13:17:47.925+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.173 seconds (ok)
+2021-04-05T13:17:47.925+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.018 seconds (ok)
+2021-04-05T13:17:47.956+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.041 seconds (ok)
+2021-04-05T13:17:48.112+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.084 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.716 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.391 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.391 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.390 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.390 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.389 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.388 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.387 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.387 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.387 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.385 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.384 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.384 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.383 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.383 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.383 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.382 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.382 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.381 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.380 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.380 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.379 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.378 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.378 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.376 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.326 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.243 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.227 seconds (ok)
+2021-04-05T13:17:48.752+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.056 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.113 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.112 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.113 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.113 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.114 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.113 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.100 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.045 seconds (ok)
+2021-04-05T13:17:56.271+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.020 seconds (ok)
+2021-04-05T13:17:57.659+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-05T13:17:57.675+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox timed out.
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpc: app toolbox-dnd's second ping timeout; assuming app is down
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox timed out.
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpc: app toolbox's second ping timeout; assuming app is down
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpc: Reinitializing Channel 2(toolbox-dnd)
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestMsg: Channel 2, Cannot unpost because the previous post is already completed
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpc: Channel 2 reinitialized.
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpc: Channel 2 reinitialized.
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestRpc: Reinitializing Channel 0(toolbox)
+2021-04-05T13:18:12.667+05:30| vmx| I120: GuestMsg: Channel 0, Cannot unpost because the previous post is already completed
+2021-04-05T13:18:12.682+05:30| vmx| I120: GuestRpc: Channel 0 reinitialized.
+2021-04-05T13:18:12.682+05:30| vmx| I120: GuestRpc: Channel 0 reinitialized.
+2021-04-05T13:18:12.885+05:30| vmx| I120: Tools: Tools heartbeat timeout.
+2021-04-05T13:18:13.275+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:18:21.418+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-05T13:18:29.000+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:18:43.617+05:30| vcpu-0| I120: GuestMsg: Channel 0, Protocol error, state: 0
+2021-04-05T13:18:43.617+05:30| vcpu-0| I120: GuestMsg: Cannot close channel 0: it is not opened
+2021-04-05T13:18:43.617+05:30| vcpu-0| I120: GuestMsg: Channel 2, Protocol error, state: 0
+2021-04-05T13:18:43.617+05:30| vcpu-0| I120: GuestMsg: Cannot close channel 2: it is not opened
+2021-04-05T13:18:44.381+05:30| vmx| I120: Tools: Tools heartbeat timeout.
+2021-04-05T13:18:44.615+05:30| vcpu-0| I120: Guest: toolbox: Version: build-1294478
+2021-04-05T13:18:44.615+05:30| vcpu-0| I120: GuestRpc: Channel 0, guest application toolbox.
+2021-04-05T13:18:44.615+05:30| vcpu-0| I120: TOOLS Reducing idleLoopSpinUS to 500us
+2021-04-05T13:18:44.615+05:30| vcpu-0| I120: Guest: toolbox-dnd: Version: build-1294478
+2021-04-05T13:18:44.615+05:30| vcpu-0| I120: GuestRpc: Channel 2, guest application toolbox-dnd.
+2021-04-05T13:18:44.662+05:30| vcpu-0| I120: TOOLS autoupgrade protocol version 2
+2021-04-05T13:18:44.662+05:30| vcpu-0| I120: Vix: [5504 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=2, err=0).
+2021-04-05T13:18:44.662+05:30| vcpu-0| I120: TOOLS Received tools.set.version rpc call, version = 9408.
+2021-04-05T13:18:44.662+05:30| vcpu-0| I120: ToolsSetVersionWork did nothing; new tools version (9408) matches old Tools version
+2021-04-05T13:18:44.678+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:18:46.004+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-05T13:18:46.487+05:30| vcpu-0| I120: TOOLS autoupgrade protocol version 2
+2021-04-05T13:18:46.487+05:30| vcpu-0| I120: Vix: [5504 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=2, err=0).
+2021-04-05T13:18:46.487+05:30| vcpu-0| I120: TOOLS Received tools.set.version rpc call, version = 9408.
+2021-04-05T13:18:46.487+05:30| vcpu-0| I120: ToolsSetVersionWork did nothing; new tools version (9408) matches old Tools version
+2021-04-05T13:18:57.158+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.107 seconds (ok)
+2021-04-05T13:18:57.158+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.107 seconds (ok)
+2021-04-05T13:18:57.158+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.107 seconds (ok)
+2021-04-05T13:18:57.158+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.083 seconds (ok)
+2021-04-05T13:18:57.189+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.110 seconds (ok)
+2021-04-05T13:18:57.205+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.068 seconds (ok)
+2021-04-05T13:18:59.747+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.267 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.429 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.383 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.247 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.247 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.246 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.245 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.245 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.244 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.244 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.243 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.243 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.243 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.242 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.241 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.240 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.240 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.239 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.238 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.237 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.237 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.236 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.192 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.653 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.642 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.236 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.236 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.236 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.233 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.224 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.199 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.198 seconds (ok)
+2021-04-05T13:19:00.169+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.197 seconds (ok)
+2021-04-05T13:19:03.991+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.072 seconds (ok)
+2021-04-05T13:19:04.022+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.104 seconds (ok)
+2021-04-05T13:19:04.427+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.113 seconds (ok)
+2021-04-05T13:19:04.459+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.141 seconds (ok)
+2021-04-05T13:19:04.459+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.141 seconds (ok)
+2021-04-05T13:19:04.459+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.128 seconds (ok)
+2021-04-05T13:19:04.459+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.103 seconds (ok)
+2021-04-05T13:19:04.459+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.103 seconds (ok)
+2021-04-05T13:19:07.095+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.022 seconds (ok)
+2021-04-05T13:19:14.178+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.006 seconds (ok)
+2021-04-05T13:19:14.209+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.034 seconds (ok)
+2021-04-05T13:19:14.209+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.034 seconds (ok)
+2021-04-05T13:19:14.209+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.033 seconds (ok)
+2021-04-05T13:19:14.209+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.033 seconds (ok)
+2021-04-05T13:19:14.209+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.033 seconds (ok)
+2021-04-05T13:19:14.209+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.034 seconds (ok)
+2021-04-05T13:19:15.644+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.014 seconds (ok)
+2021-04-05T13:19:17.438+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.061 seconds (ok)
+2021-04-05T13:19:17.454+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.083 seconds (ok)
+2021-04-05T13:19:18.499+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:19:23.272+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:19:28.171+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.052 seconds (ok)
+2021-04-05T13:19:28.171+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.052 seconds (ok)
+2021-04-05T13:19:28.171+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.052 seconds (ok)
+2021-04-05T13:19:28.171+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.052 seconds (ok)
+2021-04-05T13:19:28.171+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.051 seconds (ok)
+2021-04-05T13:19:28.171+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.051 seconds (ok)
+2021-04-05T13:19:28.171+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.050 seconds (ok)
+2021-04-05T13:19:28.202+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.023 seconds (ok)
+2021-04-05T13:19:40.510+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.025 seconds (ok)
+2021-04-05T13:19:40.573+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.004 seconds (ok)
+2021-04-05T13:19:40.604+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.006 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.018 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.018 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.018 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.018 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.019 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.019 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.001 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.002 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.002 seconds (ok)
+2021-04-05T13:19:46.906+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.002 seconds (ok)
+2021-04-05T13:19:46.922+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.046 seconds (ok)
+2021-04-05T13:19:47.140+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.237 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.319 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.318 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.318 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.318 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.318 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.318 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.318 seconds (ok)
+2021-04-05T13:19:47.218+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.318 seconds (ok)
+2021-04-05T13:19:47.250+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.348 seconds (ok)
+2021-04-05T13:19:50.557+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.370 seconds (ok)
+2021-04-05T13:19:50.572+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.371 seconds (ok)
+2021-04-05T13:19:50.572+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.015 seconds (ok)
+2021-04-05T13:19:50.572+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.015 seconds (ok)
+2021-04-05T13:19:50.572+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.015 seconds (ok)
+2021-04-05T13:19:50.572+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.015 seconds (ok)
+2021-04-05T13:19:50.588+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.338 seconds (ok)
+2021-04-05T13:19:50.947+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.096 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.488 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.486 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.485 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.484 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.483 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.482 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.481 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.479 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.478 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.478 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.477 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.477 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.476 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.475 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.440 seconds (ok)
+2021-04-05T13:19:51.337+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.439 seconds (ok)
+2021-04-05T13:19:58.326+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.035 seconds (ok)
+2021-04-05T13:19:58.326+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.036 seconds (ok)
+2021-04-05T13:19:58.388+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.062 seconds (ok)
+2021-04-05T13:20:02.834+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.027 seconds (ok)
+2021-04-05T13:20:02.834+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.027 seconds (ok)
+2021-04-05T13:20:02.865+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.027 seconds (ok)
+2021-04-05T13:20:02.928+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.054 seconds (ok)
+2021-04-05T13:20:22.178+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:20:31.281+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:20:32.748+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-05T13:20:35.487+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.018 seconds (ok)
+2021-04-05T13:20:35.515+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.010 seconds (ok)
+2021-04-05T13:20:35.515+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.010 seconds (ok)
+2021-04-05T13:20:35.554+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.048 seconds (ok)
+2021-04-05T13:32:46.283+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
+2021-04-05T19:32:47.753+05:30| WinNotifyThread| I120: WinNotify: Resuming system, telling guest to sync time. (Result of IsSystemResumeAutomatic(): TRUE)
+2021-04-05T19:32:51.046+05:30| vmx| I120: ide1:0: Command *UNKNOWN (0x4a)* took 3.498 seconds (ok)
+2021-04-05T19:32:51.842+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
+2021-04-06T11:45:13.919+05:30| vmx| I120: ide1:0: Command *UNKNOWN (0x4a)* took 1.848 seconds (ok)
+2021-04-06T11:45:18.365+05:30| WinNotifyThread| I120: WinNotify: Resuming system, telling guest to sync time. (Result of IsSystemResumeAutomatic(): FALSE)
+2021-04-06T11:48:10.976+05:30| vmx| I120: DISKLIB-LIB   : numIOs = 50000 numMergedIOs = 4884 numSplitIOs = 877
+2021-04-06T11:48:46.777+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.567 seconds (ok)
+2021-04-06T11:48:48.491+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.434 seconds (ok)
+2021-04-06T11:48:48.521+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.416 seconds (ok)
+2021-04-06T11:48:52.896+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.645 seconds (ok)
+2021-04-06T11:48:55.020+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.547 seconds (ok)
+2021-04-06T11:48:55.020+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.547 seconds (ok)
+2021-04-06T11:52:05.657+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T11:52:06.179+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-06T11:52:06.768+05:30| vcpu-0| I120: GuestRpc: Channel 2, unable to send an rpc.
+2021-04-06T11:52:06.773+05:30| vcpu-0| I120: GuestRpc: Reinitializing Channel 2(toolbox-dnd)
+2021-04-06T11:52:06.922+05:30| vcpu-0| I120: GuestRpc: Channel 2 reinitialized.
+2021-04-06T11:52:06.922+05:30| vcpu-0| I120: GuestRpc: Channel 2 reinitialized.
+2021-04-06T11:52:11.663+05:30| mks| I120: Msg_Post: Warning
+2021-04-06T11:52:11.663+05:30| mks| I120: [msg.keyboardHook.cad] VMware Workstation has detected that "Ctrl+Alt+Delete" was typed inside the virtual machine. Even when the virtual machine has control of the keyboard and the mouse, "Ctrl+Alt+Delete" is processed by both the virtual machine and the host operating system.
+2021-04-06T11:52:11.663+05:30| mks| I120: [msg.keyboardHook.cad.hotkey] To send "Ctrl+Alt+Delete" only to the virtual machine, type "Ctrl+Alt+Insert" instead.
+2021-04-06T11:52:11.663+05:30| mks| I120: ----------------------------------------
+2021-04-06T11:52:11.713+05:30| mks| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T11:52:11.791+05:30| mks| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T11:52:15.073+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-06T11:52:16.056+05:30| vcpu-0| I120: Guest: toolbox-dnd: Version: build-1294478
+2021-04-06T11:52:16.056+05:30| vcpu-0| I120: GuestRpc: Channel 2, guest application toolbox-dnd.
+2021-04-06T11:52:16.118+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-06T11:52:23.250+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T11:53:05.085+05:30| vmx| I120: scsi0:0: Command READ(10) took 2.711 seconds (ok)
+2021-04-06T11:55:13.129+05:30| vmx| I120: scsi0:0: Command READ(10) took 1.808 seconds (ok)
+2021-04-06T11:55:14.004+05:30| vmx| I120: MemSched: caller 0 numvm 1 locked pages: num 480958 max 774400
+2021-04-06T11:55:14.004+05:30| vmx| I120: MemSched: locked Page Limit: host 935150 config 782592 dynam 1043932
+2021-04-06T11:55:14.004+05:30| vmx| I120: MemSched: minmempct 50  timestamp 7354
+2021-04-06T11:55:14.004+05:30| vmx| I120: MemSched: VM 0 min 301142 max 563286 shares 524288 paged 177491 nonpaged 34912 anonymous 4086 locked 480958 shared 0 sharedUsr 30712 touchedPct 9 dirtiedPct 7 timestamp 7354 vmResponsive is 1
+2021-04-06T11:55:14.004+05:30| vmx| I120: MemSched: locked 480958 target 563286 balloon 0 0 340787 swapped 21647 385 0 allocd 8 512 state 0 100
+2021-04-06T11:55:14.004+05:30| vmx| I120: MemSched: states: 0 1801 : 1 0 : 2 0 : 3 0
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: Balloon enabled 1 guestType 4 maxSize 0
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x3f003f 6
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x3f3f3f3f 6
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P2    0x100000000 7
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: L2    0x6000be00000000 10
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xcdcdcdcd 24
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xd4d4d4d4 27
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P4-12 0x1 28
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xffffffff 126
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: Z     0 1684
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: W5-32 0x81e01000 28763
+2021-04-06T11:55:14.049+05:30| vmx| I120: MemSched: COWStats [0]: shared 30712 1684 breaks 527249 527135 inits 526840 pool 20 overflow 4
+2021-04-06T11:57:29.784+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T11:57:30.239+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T11:57:30.425+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T11:57:30.813+05:30| vmx| I120: USBGW: Write arbitrator op:13 len:43
+2021-04-06T12:16:01.164+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
+2021-04-06T12:16:01.309+05:30| vmx| I120: scsi0:0: Command READ(10) took 3.158 seconds (ok)
+2021-04-06T12:16:01.475+05:30| vmx| I120: scsi0:0: Command READ(10) took 3.325 seconds (ok)
+2021-04-06T12:34:47.516+05:30| vmx| I120: ide1:0: Command *UNKNOWN (0x4a)* took 3.891 seconds (ok)
+2021-04-06T12:34:47.666+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 4.042 seconds (ok)
+2021-04-06T12:34:47.667+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 4.042 seconds (ok)
+2021-04-06T12:34:48.994+05:30| WinNotifyThread| I120: WinNotify: Resuming system, telling guest to sync time. (Result of IsSystemResumeAutomatic(): FALSE)
+2021-04-06T12:43:09.801+05:30| vmx| I120: scsi0:0: Command READ(10) took 2.668 seconds (ok)
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: caller 0 numvm 1 locked pages: num 440825 max 774400
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: locked Page Limit: host 928185 config 782592 dynam 1043932
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: minmempct 50  timestamp 9161
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: VM 0 min 301142 max 563286 shares 524288 paged 177491 nonpaged 34912 anonymous 4086 locked 440825 shared 0 sharedUsr 32473 touchedPct 6 dirtiedPct 3 timestamp 9161 vmResponsive is 1
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: locked 440825 target 563286 balloon 0 0 340787 swapped 60086 965 0 allocd 0 512 state 0 100
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: states: 0 3601 : 1 0 : 2 0 : 3 0
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: Balloon enabled 1 guestType 4 maxSize 0
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P2    0xc0 11
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0x3f003f 15
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: L2    0x6000be00000000 16
+2021-04-06T12:43:46.281+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P2    0x100000000 17
+2021-04-06T12:43:46.282+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P4-12 0x1 28
+2021-04-06T12:43:46.282+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xd4d4d4d4 44
+2021-04-06T12:43:46.282+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xcdcdcdcd 67
+2021-04-06T12:43:46.282+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: P1    0xffffffff 230
+2021-04-06T12:43:46.282+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: Z     0 3057
+2021-04-06T12:43:46.282+05:30| vmx| I120: MemSched: COWStats [0]: Hot Page: W5-32 0x81e01000 28933
+2021-04-06T12:43:46.282+05:30| vmx| I120: MemSched: COWStats [0]: shared 32473 3057 breaks 528058 527866 inits 526994 pool 20 overflow 20
+2021-04-06T12:49:47.260+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
+2021-04-06T12:55:34.014+05:30| WinNotifyThread| I120: WinNotify: Resuming system, telling guest to sync time. (Result of IsSystemResumeAutomatic(): FALSE)
+2021-04-06T12:55:37.020+05:30| vmx| I120: ide1:0: Command *UNKNOWN (0x4a)* took 2.900 seconds (ok)
+2021-04-06T12:55:37.048+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 3.865 seconds (ok)
+2021-04-06T12:55:41.319+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
+2021-04-06T13:15:26.518+05:30| vmx| I120: Tools: Tools heartbeat timeout.
+2021-04-06T13:15:26.560+05:30| vmx| I120: PTSC: using reference clock [TSC: 21892651428162->21893922765848, RC: 21378181475->21379321188]
+2021-04-06T13:15:26.560+05:30| vmx| I120: PTSC: current PTSC=9153782733683
+2021-04-06T13:15:27.020+05:30| WinNotifyThread| I120: WinNotify: Resuming system, telling guest to sync time. (Result of IsSystemResumeAutomatic(): FALSE)
+2021-04-06T13:15:30.541+05:30| vcpu-0| I120: TOOLS autoupgrade protocol version 2
+2021-04-06T13:15:31.212+05:30| vcpu-0| I120: Vix: [5504 mainDispatch.c:3905]: VMAutomationReportPowerStateChange: Reporting power state change (opcode=2, err=0).
+2021-04-06T13:15:31.337+05:30| vcpu-0| I120: TOOLS Received tools.set.version rpc call, version = 9408.
+2021-04-06T13:15:31.669+05:30| vcpu-0| I120: ToolsSetVersionWork did nothing; new tools version (9408) matches old Tools version
+2021-04-06T13:15:31.778+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox timed out.
+2021-04-06T13:15:31.778+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-06T13:15:31.872+05:30| vcpu-0| I120: FILE: FileDeletionRetry: Non-retriable error encountered (F:\2003Vmware\Windows Server 2003 Enterprise Edition.vmx~): The system cannot find the file specified (2)
+2021-04-06T13:19:40.320+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
+2021-04-06T19:19:41.517+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox timed out.
+2021-04-06T19:19:45.516+05:30| WinNotifyThread| I120: WinNotify: Resuming system, telling guest to sync time. (Result of IsSystemResumeAutomatic(): TRUE)
+2021-04-06T19:19:45.516+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-06T19:19:48.550+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
+2021-04-09T11:28:31.825+05:30| vmx| I120: ide1:0: Command *UNKNOWN (0x4a)* took 1.610 seconds (ok)
+2021-04-09T11:28:32.355+05:30| vmx| I120: scsi0:0: Command READ(10) took 2.330 seconds (ok)
+2021-04-09T11:28:39.382+05:30| WinNotifyThread| I120: WinNotify: Resuming system, telling guest to sync time. (Result of IsSystemResumeAutomatic(): FALSE)
+2021-04-09T11:28:41.194+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.095 seconds (ok)
+2021-04-09T11:28:41.194+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 1.095 seconds (ok)
+2021-04-09T11:28:46.107+05:30| vmx| I120: VUsbUpdateVigorFieldsAndAutoconnect: New set of 3 USB devices
+2021-04-09T11:28:46.107+05:30| vmx| I120: USB: Found device [name:Chicony\ Sony\ Visual\ Communication\ Camera vid:04f2 pid:b290 path:1/0/0/1 speed:high family:other,imaging instanceId:USB\\VID_04F2&PID_B290\\SONY_VISUAL_COMMUNICATION_CAMERA serialnum:SONY_VISUAL_COMMUNICATION_CAMERA arbRuntimeKey:1 version:2]
+2021-04-09T11:28:46.107+05:30| vmx| I120: USB: Found device [name:Foxconn\ Atheros\ AR3011\ Bluetooth(R)\ Adapter vid:0489 pid:e027 path:1/0/0/4 speed:full family:vendor,wireless,bluetooth instanceId:USB\\VID_0489&PID_E027\\6&2BBC84EB&0&5 arbRuntimeKey:2 version:2]
+2021-04-09T11:28:46.107+05:30| vmx| I120: USB: Found device [name:Virtual\ Bluetooth\ Adapter vid:0a12 pid:0001 speed:full family:wireless,bluetooth deviceType:virtual-bluetooth version:2]
+2021-04-09T11:28:50.375+05:30| vmx| I120: scsi0:0: Command READ(10) took 10.630 seconds (ok)
+2021-04-09T11:28:50.375+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 9.179 seconds (ok)
+2021-04-09T11:28:50.375+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 9.104 seconds (ok)
+2021-04-09T11:29:14.387+05:30| vmx| I120: GuestRpcSendTimedOut: message to toolbox-dnd timed out.
+2021-04-09T11:29:14.387+05:30| vmx| I120: VUsbUpdateVigorFieldsAndAutoconnect: New set of 3 USB devices
+2021-04-09T11:29:14.387+05:30| vmx| I120: USB: Found device [name:Chicony\ Sony\ Visual\ Communication\ Camera vid:04f2 pid:b290 path:1/0/0/1 speed:high family:other,imaging instanceId:USB\\VID_04F2&PID_B290\\SONY_VISUAL_COMMUNICATION_CAMERA serialnum:SONY_VISUAL_COMMUNICATION_CAMERA arbRuntimeKey:1 version:2]
+2021-04-09T11:29:14.387+05:30| vmx| I120: USB: Found device [name:Foxconn\ Atheros\ AR3011\ Bluetooth(R)\ Adapter vid:0489 pid:e027 path:1/0/0/4 speed:full family:vendor,wireless,bluetooth instanceId:USB\\VID_0489&PID_E027\\6&2BBC84EB&0&5 disconnected:1 arbRuntimeKey:2 version:2]
+2021-04-09T11:29:14.387+05:30| vmx| I120: USB: Found device [name:Virtual\ Bluetooth\ Adapter vid:0a12 pid:0001 speed:full family:wireless,bluetooth deviceType:virtual-bluetooth version:2]
+2021-04-09T11:29:14.388+05:30| vmx| I120: VUsbUpdateVigorFieldsAndAutoconnect: New set of 2 USB devices
+2021-04-09T11:29:14.388+05:30| vmx| I120: USB: Found device [name:Chicony\ Sony\ Visual\ Communication\ Camera vid:04f2 pid:b290 path:1/0/0/1 speed:high family:other,imaging instanceId:USB\\VID_04F2&PID_B290\\SONY_VISUAL_COMMUNICATION_CAMERA serialnum:SONY_VISUAL_COMMUNICATION_CAMERA arbRuntimeKey:1 version:2]
+2021-04-09T11:29:14.388+05:30| vmx| I120: USB: Found device [name:Virtual\ Bluetooth\ Adapter vid:0a12 pid:0001 speed:full family:wireless,bluetooth deviceType:virtual-bluetooth version:2]
+2021-04-09T11:29:14.388+05:30| vmx| I120: ide1:0: Command *UNKNOWN (0x4a)* took 24.007 seconds (ok)
+2021-04-09T11:29:20.563+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 4.662 seconds (ok)
+2021-04-09T11:29:20.563+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 4.662 seconds (ok)
+2021-04-09T11:29:20.563+05:30| vmx| I120: scsi0:0: Command WRITE(10) took 4.661 seconds (ok)
+2021-04-09T11:29:23.043+05:30| WinNotifyThread| I120: WinNotify: System suspend detected.
